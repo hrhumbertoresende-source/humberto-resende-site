@@ -6,6 +6,7 @@ const COPY = {
   pt: {
     name: "Nome",
     email: "E-mail",
+    subject: "Assunto",
     message: "Mensagem",
     submit: "Enviar mensagem",
     sending: "Enviando...",
@@ -15,6 +16,7 @@ const COPY = {
   en: {
     name: "Name",
     email: "Email",
+    subject: "Subject",
     message: "Message",
     submit: "Send message",
     sending: "Sending...",
@@ -27,6 +29,7 @@ export function ContactForm({ locale }: { locale: "pt" | "en" }) {
   const t = COPY[locale];
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
+  const [subject, setSubject] = useState("");
   const [message, setMessage] = useState("");
   const [status, setStatus] = useState<"idle" | "sending" | "success" | "error">("idle");
   const [error, setError] = useState<string | null>(null);
@@ -40,13 +43,14 @@ export function ContactForm({ locale }: { locale: "pt" | "en" }) {
       const res = await fetch("/api/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name, email, message }),
+        body: JSON.stringify({ name, email, subject, message }),
       });
       const data = await res.json();
       if (!res.ok) throw new Error(data.error || t.fallbackError);
       setStatus("success");
       setName("");
       setEmail("");
+      setSubject("");
       setMessage("");
     } catch (err) {
       setError(err instanceof Error ? err.message : t.fallbackError);
@@ -75,6 +79,14 @@ export function ContactForm({ locale }: { locale: "pt" | "en" }) {
         value={email}
         onChange={(e) => setEmail(e.target.value)}
         className="border border-neutral-300 px-4 py-2.5 text-sm outline-none focus:border-neutral-900"
+      />
+      <input
+        type="text"
+        placeholder={`${t.subject} *`}
+        required
+        value={subject}
+        onChange={(e) => setSubject(e.target.value)}
+        className="border border-neutral-300 px-4 py-2.5 text-sm outline-none focus:border-neutral-900 sm:col-span-2"
       />
       <textarea
         placeholder={`${t.message} *`}
