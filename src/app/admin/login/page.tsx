@@ -28,7 +28,11 @@ export default function AdminLoginPage() {
     setLoading(false);
 
     if (!res.ok) {
-      setError("Senha incorreta.");
+      setError(
+        passwordChanged
+          ? "Senha incorreta. Se você acabou de trocar a senha, pode levar alguns minutos para funcionar — aguarde um pouco e tente de novo."
+          : "Senha incorreta."
+      );
       return;
     }
 
@@ -46,7 +50,8 @@ export default function AdminLoginPage() {
         <p className="text-sm text-neutral-500">Entre com a senha do painel.</p>
         {passwordChanged && (
           <p className="rounded-md bg-green-50 px-3 py-2 text-sm text-green-700">
-            Senha alterada. Entre novamente com a senha nova.
+            Senha alterada. Entre novamente com a senha nova — se der &quot;senha incorreta&quot;, aguarde um
+            minuto e tente de novo.
           </p>
         )}
         <input

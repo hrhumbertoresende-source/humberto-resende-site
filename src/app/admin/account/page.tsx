@@ -50,7 +50,9 @@ export default function AdminAccountPage() {
       <header className="mb-6">
         <h1 className="text-xl font-semibold text-neutral-900">Trocar senha</h1>
         <p className="text-sm text-neutral-500">
-          Depois de trocar, você será desconectado e vai precisar entrar de novo com a senha nova.
+          Depois de trocar, você será desconectado e vai precisar entrar de novo com a senha nova. Em
+          casos raros isso pode levar alguns minutos para valer — se o login falhar logo em seguida,
+          aguarde um pouco e tente de novo.
         </p>
       </header>
 
