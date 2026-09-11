@@ -25,12 +25,6 @@ export default async function EnLayout({
 
   return (
     <div className="flex min-h-full flex-1 flex-col" style={{ backgroundColor: colors.background, color: colors.foreground }}>
-      {content.placeholderNotice && (
-        <div className="bg-neutral-900 px-4 py-1.5 text-center text-[8.8px] text-neutral-300 md:text-[11px]">
-          {content.placeholderNotice}
-        </div>
-      )}
-
       <SiteHeader
         siteName={content.siteName}
         primaryNav={primaryNav}

@@ -53,6 +53,4 @@ export interface SiteContent {
   nav: NavLink[];
   theme: ThemeTokens;
   sections: Section[];
-  /** Shown as a dismissable-looking but persistent banner when content is a temporary placeholder. */
-  placeholderNotice?: string;
 }
