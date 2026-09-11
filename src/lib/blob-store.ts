@@ -16,10 +16,15 @@ export async function readBlobJson<T>(pathname: string): Promise<T | null> {
   // didn't reliably fix that. useCache: false reads straight from origin.
   try {
     const result = await get(pathname, { access: "public", useCache: false });
-    if (!result) return null;
+    if (!result) {
+      console.error(`[blob-store] get(${pathname}) returned null`);
+      return null;
+    }
     const text = await new Response(result.stream).text();
+    console.error(`[blob-store] get(${pathname}) -> ${text}`);
     return JSON.parse(text) as T;
-  } catch {
+  } catch (e) {
+    console.error(`[blob-store] get(${pathname}) threw:`, e);
     return null;
   }
 }
