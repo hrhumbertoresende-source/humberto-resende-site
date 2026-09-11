@@ -3,6 +3,7 @@ import Image from "next/image";
 import { getSobreContent } from "@/lib/sobre";
 import { getSiteContent } from "@/lib/site-content";
 import { RichText } from "@/components/rich-text";
+import { ContactForm } from "@/components/contact-form";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
@@ -121,29 +122,7 @@ export default async function SobrePage() {
               )}
             </div>
 
-            <form className="grid grid-cols-1 gap-4 sm:grid-cols-2">
-              <input
-                type="text"
-                placeholder="Nome"
-                className="border border-neutral-300 px-4 py-2.5 text-sm outline-none focus:border-neutral-900"
-              />
-              <input
-                type="email"
-                placeholder="E-mail"
-                className="border border-neutral-300 px-4 py-2.5 text-sm outline-none focus:border-neutral-900"
-              />
-              <textarea
-                placeholder="Mensagem"
-                rows={4}
-                className="border border-neutral-300 px-4 py-2.5 text-sm outline-none focus:border-neutral-900 sm:col-span-2"
-              />
-              <button
-                type="button"
-                className="bg-neutral-900 px-6 py-2.5 text-sm font-medium text-white hover:bg-neutral-800 sm:col-span-2 sm:w-fit"
-              >
-                Enviar mensagem
-              </button>
-            </form>
+            <ContactForm locale="pt" />
           </div>
         </div>
       )}
