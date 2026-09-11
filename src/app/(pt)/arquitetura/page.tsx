@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { HomeCanvas } from "@/components/home-canvas";
 import { getArquiteturaCanvas } from "@/lib/home-canvas";
+export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = { title: "Arquitetura & Interiores" };
 

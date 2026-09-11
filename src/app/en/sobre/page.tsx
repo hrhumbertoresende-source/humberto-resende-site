@@ -3,6 +3,7 @@ import Image from "next/image";
 import { getSobreContent } from "@/lib/sobre";
 import { getSiteContent } from "@/lib/site-content";
 import { RichText } from "@/components/rich-text";
+export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "About Humberto Resende | Architecture, Scenography and Creative Consulting",

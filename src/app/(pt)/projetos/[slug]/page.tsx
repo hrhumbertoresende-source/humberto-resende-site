@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getProjectBySlug, getProjects } from "@/lib/projects";
 import { getProjectGalleryCanvas } from "@/lib/project-gallery-canvas";
 import { ProjectPhotoCanvas } from "@/components/project-photo-canvas";
+export const dynamic = "force-dynamic";
 
 export async function generateStaticParams() {
   const projects = await getProjects();

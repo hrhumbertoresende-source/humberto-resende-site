@@ -1,5 +1,6 @@
 import { HomeCanvas } from "@/components/home-canvas";
 import { getHomeCanvas } from "@/lib/home-canvas";
+export const dynamic = "force-dynamic";
 
 export default async function Home() {
   const canvasData = await getHomeCanvas("pt");

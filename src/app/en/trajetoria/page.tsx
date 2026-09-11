@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getTrajetoriaContent } from "@/lib/trajetoria";
 import { RichText } from "@/components/rich-text";
+export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "Humberto Resende | Architect, Scenographer, and Creative Consultant in São Paulo",
