@@ -4,12 +4,12 @@ import { ADMIN_SESSION_COOKIE, checkAdminPassword, createSessionToken } from "@/
 export async function POST(request: Request) {
   const { password } = (await request.json()) as { password?: string };
 
-  if (!password || !checkAdminPassword(password)) {
+  if (!password || !(await checkAdminPassword(password))) {
     return NextResponse.json({ error: "Senha incorreta" }, { status: 401 });
   }
 
   const response = NextResponse.json({ ok: true });
-  response.cookies.set(ADMIN_SESSION_COOKIE, createSessionToken(), {
+  response.cookies.set(ADMIN_SESSION_COOKIE, await createSessionToken(), {
     httpOnly: true,
     sameSite: "lax",
     path: "/",

@@ -2,8 +2,10 @@ import { NextResponse } from "next/server";
 import { cookies } from "next/headers";
 import { promises as fs } from "fs";
 import path from "path";
+import { list } from "@vercel/blob";
 import { ADMIN_SESSION_COOKIE, isValidSessionToken } from "@/lib/admin-auth";
 import { slugify } from "@/lib/slug";
+import { hasBlobStore, writeBlobFile } from "@/lib/blob-store";
 
 async function requireSession() {
   const store = await cookies();
@@ -30,17 +32,29 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "Nenhum arquivo enviado" }, { status: 400 });
   }
 
-  const dir = path.join(process.cwd(), "public", "images", "humberto", "trabalhos", slug);
-  await fs.mkdir(dir, { recursive: true });
+  const localDir = path.join(process.cwd(), "public", "images", "humberto", "trabalhos", slug);
+  const blobPrefix = `images/humberto/trabalhos/${slug}/`;
 
-  const existing = await fs.readdir(dir).catch(() => [] as string[]);
-  let nextIndex =
-    existing
-      .map((f) => parseInt(f, 10))
+  // Photos already committed to the repo (local, static) and photos uploaded
+  // through the admin in production (Blob) share one numbering sequence.
+  const localExisting = await fs.readdir(localDir).catch(() => [] as string[]);
+  let maxIndex = localExisting
+    .map((f) => parseInt(f, 10))
+    .filter((n) => Number.isFinite(n))
+    .reduce((max, n) => Math.max(max, n), 0);
+
+  if (hasBlobStore()) {
+    const { blobs } = await list({ prefix: blobPrefix });
+    const blobMax = blobs
+      .map((b) => parseInt(path.basename(b.pathname), 10))
       .filter((n) => Number.isFinite(n))
-      .reduce((max, n) => Math.max(max, n), 0) + 1;
+      .reduce((max, n) => Math.max(max, n), 0);
+    maxIndex = Math.max(maxIndex, blobMax);
+  }
 
+  let nextIndex = maxIndex + 1;
   const savedPaths: string[] = [];
+
   for (const file of files) {
     if (!ALLOWED_TYPES.has(file.type)) {
       return NextResponse.json({ error: `Tipo de arquivo não suportado: ${file.type}` }, { status: 400 });
@@ -51,8 +65,15 @@ export async function POST(request: Request) {
     const ext = file.type === "image/png" ? "png" : file.type === "image/webp" ? "webp" : file.type === "image/gif" ? "gif" : "jpg";
     const fileName = `${nextIndex}.${ext}`;
     const buffer = Buffer.from(await file.arrayBuffer());
-    await fs.writeFile(path.join(dir, fileName), buffer);
-    savedPaths.push(`/images/humberto/trabalhos/${slug}/${fileName}`);
+
+    if (hasBlobStore()) {
+      const { url } = await writeBlobFile(`${blobPrefix}${fileName}`, buffer, file.type);
+      savedPaths.push(url);
+    } else {
+      await fs.mkdir(localDir, { recursive: true });
+      await fs.writeFile(path.join(localDir, fileName), buffer);
+      savedPaths.push(`/images/humberto/trabalhos/${slug}/${fileName}`);
+    }
     nextIndex++;
   }
 

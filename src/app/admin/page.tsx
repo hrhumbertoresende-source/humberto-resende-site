@@ -26,6 +26,11 @@ const CARDS = [
     title: "Página Trajetória",
     description: "Formação, linha do tempo profissional e clientes atendidos.",
   },
+  {
+    href: "/admin/account",
+    title: "Trocar senha",
+    description: "Altere a senha de acesso ao painel administrativo.",
+  },
 ];
 
 export default function AdminHomePage() {

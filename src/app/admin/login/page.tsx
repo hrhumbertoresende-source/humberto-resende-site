@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 
 export default function AdminLoginPage() {
@@ -8,6 +8,11 @@ export default function AdminLoginPage() {
   const [password, setPassword] = useState("");
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
+  const [passwordChanged, setPasswordChanged] = useState(false);
+
+  useEffect(() => {
+    setPasswordChanged(new URLSearchParams(window.location.search).get("senha-trocada") === "1");
+  }, []);
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
@@ -38,7 +43,12 @@ export default function AdminLoginPage() {
         className="w-full max-w-sm space-y-4 rounded-lg border border-neutral-200 bg-white p-8 shadow-sm"
       >
         <h1 className="text-lg font-semibold text-neutral-900">Painel administrativo</h1>
-        <p className="text-sm text-neutral-500">Acesso local — informe a senha configurada em .env.local.</p>
+        <p className="text-sm text-neutral-500">Entre com a senha do painel.</p>
+        {passwordChanged && (
+          <p className="rounded-md bg-green-50 px-3 py-2 text-sm text-green-700">
+            Senha alterada. Entre novamente com a senha nova.
+          </p>
+        )}
         <input
           type="password"
           value={password}
