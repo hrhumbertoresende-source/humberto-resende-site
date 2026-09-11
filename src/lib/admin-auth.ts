@@ -78,4 +78,11 @@ export async function changeAdminPassword(currentPassword: string, newPassword: 
   }
   await writeBlobJson(PASSWORD_BLOB_PATH, { password: newPassword } satisfies StoredPassword);
   cachedPassword = { value: newPassword, expiresAt: Date.now() + PASSWORD_CACHE_TTL_MS };
+
+  // Overwriting a Blob object takes a few seconds to fully propagate before
+  // every read sees it (measured ~3s), regardless of caching. The client is
+  // about to be logged out and asked to log back in with the new password,
+  // so we absorb that wait here instead of risking "senha incorreta" on the
+  // very next login attempt.
+  await new Promise((resolve) => setTimeout(resolve, 4000));
 }

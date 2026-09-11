@@ -1,4 +1,4 @@
-import { put, list } from "@vercel/blob";
+import { put, get } from "@vercel/blob";
 
 /**
  * On Vercel the filesystem is read-only at runtime, so admin-saved content
@@ -11,17 +11,17 @@ export function hasBlobStore(): boolean {
 }
 
 export async function readBlobJson<T>(pathname: string): Promise<T | null> {
-  const { blobs } = await list({ prefix: pathname, limit: 10 });
-  const match = blobs.find((b) => b.pathname === pathname);
-  if (!match) return null;
-  // The blob's public URL sits behind a CDN that can keep serving a stale
-  // copy for a while after an overwrite. The etag changes on every write,
-  // so appending it busts that cache and guarantees we read what list()
-  // (the strongly-consistent metadata API) just told us is current.
-  const bustedUrl = `${match.url}?v=${encodeURIComponent(match.etag)}`;
-  const res = await fetch(bustedUrl, { cache: "no-store" });
-  if (!res.ok) return null;
-  return (await res.json()) as T;
+  // get()'s public URL sits behind a CDN that can keep serving a stale
+  // copy for a while after an overwrite — a query-string cache-buster
+  // didn't reliably fix that. useCache: false reads straight from origin.
+  try {
+    const result = await get(pathname, { access: "public", useCache: false });
+    if (!result) return null;
+    const text = await new Response(result.stream).text();
+    return JSON.parse(text) as T;
+  } catch {
+    return null;
+  }
 }
 
 export async function writeBlobJson(pathname: string, data: unknown): Promise<void> {
