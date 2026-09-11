@@ -14,7 +14,12 @@ export async function readBlobJson<T>(pathname: string): Promise<T | null> {
   const { blobs } = await list({ prefix: pathname, limit: 10 });
   const match = blobs.find((b) => b.pathname === pathname);
   if (!match) return null;
-  const res = await fetch(match.url, { cache: "no-store" });
+  // The blob's public URL sits behind a CDN that can keep serving a stale
+  // copy for a while after an overwrite. The etag changes on every write,
+  // so appending it busts that cache and guarantees we read what list()
+  // (the strongly-consistent metadata API) just told us is current.
+  const bustedUrl = `${match.url}?v=${encodeURIComponent(match.etag)}`;
+  const res = await fetch(bustedUrl, { cache: "no-store" });
   if (!res.ok) return null;
   return (await res.json()) as T;
 }
@@ -25,6 +30,7 @@ export async function writeBlobJson(pathname: string, data: unknown): Promise<vo
     addRandomSuffix: false,
     allowOverwrite: true,
     contentType: "application/json",
+    cacheControlMaxAge: 60,
   });
 }
 
