@@ -22,7 +22,7 @@ interface StoredPassword {
  * value immediately instead of trusting a read-your-own-write.
  */
 let cachedPassword: { value: string; expiresAt: number } | null = null;
-const PASSWORD_CACHE_TTL_MS = 5000;
+const PASSWORD_CACHE_TTL_MS = 1000;
 
 function envPassword(): string {
   const envSecret = process.env.ADMIN_PASSWORD;
