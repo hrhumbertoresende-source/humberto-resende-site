@@ -1,0 +1,101 @@
+{
+  "tagline": "ARQUITETURA + CENOGRAFIA + CONSULTORIA CRIATIVA",
+  "profileImage": "/images/humberto/perfil-humberto.jpg",
+  "bioColumns": [
+    {
+      "paragraphs": [
+        "Sou arquiteto e cenógrafo, formado pela Faculdade de Belas Artes de São Paulo. Antes de desenhar espaços, aprendi a enxergá-los pela luz: comecei a carreira em 2007 imerso no universo da **iluminação**, passando por DL Iluminação, Havells-Sylvania, Godoy Luminotecnia e Danica Termoindustrial. É dali que vem uma forma de pensar arquitetura que carrego até hoje: a atenção ao **espaço, à luz e à materialidade** como parte de um mesmo raciocínio criativo, sempre em diálogo com o ambiente e o entorno onde cada projeto acontece.",
+        "A partir de 2014, à frente da produção de eventos e ativações de marca na **Casa Caucaia**, sob direção criativa de Renato Kubliokwski, desenvolvi soluções cenográficas para marcas como Coca-Cola, Samsung, Google, Renault, Oakley, L'Occitane, HBO e Hotel Fasano, projetos que exigiam propor **ideias criativas sob prazo curto** e coordenar equipes multidisciplinares do conceito à execução."
+      ]
+    },
+    {
+      "paragraphs": [
+        "Em 2016, vivi um dos momentos mais intensos da carreira: liderei em paralelo dois projetos ligados às **Olimpíadas do Rio**, a Casa Suíça, pela GTM Cenografia, e os estandes da Mercedes-Benz, Fiat e Chery no Salão do Automóvel, pela MChecon. Dois times, dois ritmos, um mesmo compromisso com a **qualidade de entrega**.",
+        "Entre 2016 e 2021, estive à frente da gestão e reestruturação da empresa rural da minha família, uma experiência que me ensinou a **delegar com confiança** e a liderar equipes fora do universo criativo. Em 2021, retomei a vida profissional em São Paulo, em um recomeço que incluiu também projetos autorais para a cena noturna paulistana, como Sayuri e Mariposa, onde pude assinar **conceito e cenografia** do início ao fim."
+      ]
+    },
+    {
+      "paragraphs": [
+        "Entre 2022 e 2023, na **tm1**, atuei em live marketing para contas como Meta, Netflix, Vale, XP, Bayer, Adidas, Chanel/Microsoft e Call of Duty, ampliando ainda mais o repertório de **projetos de grande escala**, sempre alinhados às particularidades de cada marca, público e território.",
+        "Hoje, à frente do **Estúdio Dorama**, ofereço consultoria criativa completa: do conceito ao projeto executivo, unindo arquitetura, cenografia e visão estratégica. Continuo trabalhando da mesma forma que aprendi ao longo desses anos, ouvindo o contexto de cada local, propondo **soluções criativas sob medida** e liderando equipes com clareza, para que cada projeto saia do papel com a mesma qualidade com que foi pensado."
+      ]
+    }
+  ],
+  "timelineColumns": [
+    [
+      {
+        "year": "2005",
+        "items": [
+          "Início da graduação em Arquitetura e Urbanismo, Belas Artes de São Paulo."
+        ]
+      },
+      {
+        "year": "2007",
+        "items": [
+          "Light designer na DL Iluminação.",
+          "Trainee na Havells-Sylvania do Brasil."
+        ]
+      },
+      {
+        "year": "2008",
+        "items": [
+          "Light designer na Godoy Luminotecnia Arquitetos Associados."
+        ]
+      },
+      {
+        "year": "2009",
+        "items": [
+          "Trainee sales manager na Danica Termoindustrial."
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2012",
+        "items": [
+          "Arquiteto autônomo em Cuiabá — Agência TELEVIDEO, Casa de Eventos MUSIVA."
+        ]
+      },
+      {
+        "year": "2014",
+        "items": [
+          "Arquiteto de criação de cenografia na Casa Caucaia, São Paulo."
+        ]
+      },
+      {
+        "year": "2016",
+        "items": [
+          "Casa Suíça — GTM Cenografia, Olimpíadas Rio 2016.",
+          "Estandes Fiat, Mercedes-Benz e Chery — MChecon."
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2016–2021",
+        "items": [
+          "Gestão e reestruturação da empresa rural da família, Cuiabá."
+        ]
+      },
+      {
+        "year": "2021",
+        "items": [
+          "Retorno a São Paulo — grupo Imagine/TeleVídeo.",
+          "Mandinga Bar, Club Sayuri, Mariposa Bar."
+        ]
+      },
+      {
+        "year": "2022–2023",
+        "items": [
+          "Direção artística e cenografia na tm1 — Meta, Netflix (Tudum), Vale, XP, Bayer, Adidas."
+        ]
+      },
+      {
+        "year": "2024",
+        "items": [
+          "Fundação do Estúdio Dorama — consultoria criativa completa."
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "heroTitle": "Arquitetura, cenografia e **iluminação** a serviço da criação",
+  "sections": [
+    {
+      "title": "Arquitetura, cenografia e iluminação a serviço da criação",
+      "paragraphs": [
+        "Humberto Resende é arquiteto e urbanista formado pelo Centro Universitário Belas Artes de São Paulo, com **mais de 15 anos** de atuação entre arquitetura, interiores, cenografia e iluminação. Nascido em Dourados (MS) e radicado em São Paulo, construiu uma trajetória multidisciplinar que une **técnica**, **sensibilidade estética** e **visão de negócio**, do projeto executivo à gestão de obras e eventos de grande porte.",
+        "Sua atuação transita por três frentes complementares: **arquitetura e interiores**, **cenografia e produção de eventos** e **consultoria criativa**, sempre orientada por uma leitura atenta de tendências e por soluções que equilibram forma, função e impacto visual. Cada projeto parte de uma escuta cuidadosa do entorno, o clima, a paisagem e as particularidades do local, buscando soluções criativas que dialoguem com o ambiente onde a obra será construída."
+      ]
+    },
+    {
+      "title": "Uma base sólida em iluminação arquitetônica",
+      "paragraphs": [
+        "O início da carreira de Humberto foi marcado por uma imersão profunda no universo da **iluminação**, área que se tornaria um dos pilares de seu repertório técnico. Passou por empresas de referência do setor, como a **DL Iluminação** e a multinacional **Havells-Sylvania do Brasil**, onde atuou no desenvolvimento e especificação de projetos luminotécnicos.",
+        "Essa base foi aprofundada na **Godoy Luminotecnia Arquitetos Associados**, onde assinou projetos de iluminação para empreendimentos comerciais de grande porte e obras públicas, incluindo intervenções para o **Metrô de São Paulo**. O conhecimento técnico foi reforçado por formações complementares junto a marcas como **OSRAM** e **Philips**, consolidando um domínio raro sobre sistemas, tecnologias e aplicações de iluminação — diferencial que hoje se reflete diretamente na **qualidade sensorial** de seus projetos arquitetônicos."
+      ]
+    },
+    {
+      "title": "Arquitetura autônoma e gestão de projetos",
+      "paragraphs": [
+        "A partir de 2012, já em Cuiabá (MT), Humberto passou a atuar como **arquiteto autônomo**, desenvolvendo projetos para clientes como a agência de comunicação **Televideo** e a casa de shows **Musiva**, experiências que ampliaram seu olhar para arquitetura comercial, espaços de grande fluxo de público e ambientes voltados à experiência do usuário.",
+        "Nesse mesmo período, esteve à frente da **gestão empresarial** da empresa rural da família, conduzindo auditoria, reestruturação e implantação de um novo plano de produção com gestão terceirizada — uma experiência que reforçou sua capacidade de **liderar equipes**, delegar funções com clareza e gerenciar projetos complexos e prazos, competência que carrega até hoje em cada obra e produção que assina."
+      ]
+    },
+    {
+      "title": "Cenografia: criação a serviço da narrativa",
+      "paragraphs": [
+        "Desde 2014, Humberto integra a **Casa Caucaia · Cenografia Inteligente**, em São Paulo, atuando como arquiteto de criação de cenografia. Nessa frente, conduz a criação, o desenvolvimento, o planejamento e a execução de projetos cenográficos para eventos e intervenções artísticas, unindo rigor técnico de arquiteto à linguagem visual exigida por marcas, produções e experiências imersivas.",
+        "É nesse campo que sua trajetória se conecta de forma mais evidente à **consultoria criativa**: monitoramento constante de tendências, produção e gerenciamento de eventos, cenografia promocional e intervenções artísticas fazem parte do seu dia a dia, sempre com acompanhamento próximo da execução das obras e coordenação direta de equipes multidisciplinares, da criação à entrega."
+      ]
+    }
+  ],
+  "formacao": [
+    "Graduação em Arquitetura e Urbanismo — Centro Universitário Belas Artes de São Paulo (2005–2010)",
+    "Paisagismo — Universidade Federal do Mato Grosso",
+    "Iluminação, Conceitos e Projetos — OSRAM",
+    "Sistemas de Iluminação, Tecnologias e Aplicações — Philips"
+  ],
+  "ferramentas": "AutoCAD 2D/3D, ArchiCAD 3D, SketchUp, Relux, AGI, CorelDRAW, Photoshop, InDesign",
+  "idiomas": [
+    "Inglês avançado — The English Language Studies Program, King George International College, Vancouver (Canadá)",
+    "Inglês avançado — Malvern House College, Londres (Reino Unido)",
+    "Espanhol básico"
+  ],
+  "linhaDoTempo": [
+    {
+      "periodo": "2016 – 2021",
+      "cargo": "Gestão empresarial",
+      "local": "Cuiabá, MT",
+      "texto": "Auditoria e reestruturação da empresa rural da família, com implantação de gestão terceirizada."
+    },
+    {
+      "periodo": "a partir de set. 2014",
+      "cargo": "Arquiteto de criação de cenografia",
+      "local": "Casa Caucaia · Cenografia Inteligente, São Paulo",
+      "texto": "Criação, desenvolvimento, planejamento e execução de projetos cenográficos."
+    },
+    {
+      "periodo": "jun. 2012 – jun. 2014",
+      "cargo": "Arquiteto autônomo",
+      "local": "Cuiabá, MT",
+      "texto": "Projetos para a agência Televideo e a casa de shows Musiva."
+    },
+    {
+      "periodo": "ago. 2009 – dez. 2010",
+      "cargo": "Trainee em Gestão Comercial",
+      "local": "Danica Termoindustrial Ltda.",
+      "texto": "Gerenciamento de áreas limpas em obras industriais."
+    },
+    {
+      "periodo": "fev. 2008 – ago. 2009",
+      "cargo": "Light Designer",
+      "local": "Godoy Luminotecnia Arquitetos Associados",
+      "texto": "Projetos comerciais de grande porte e obras públicas, incluindo o Metrô de São Paulo."
+    },
+    {
+      "periodo": "ago. 2007 – jan. 2008",
+      "cargo": "Trainee em Light Design",
+      "local": "Havells-Sylvania do Brasil",
+      "texto": "Projetos e especificação."
+    },
+    {
+      "periodo": "fev. 2007 – jul. 2007",
+      "cargo": "Estágio em Light Design",
+      "local": "DL Iluminação",
+      "texto": "Projetos de iluminação de alto padrão."
+    }
+  ],
+  "clientes": [
+    "Coca-Cola",
+    "Samsung",
+    "Google",
+    "Renault",
+    "Oakley",
+    "L'Occitane",
+    "HBO",
+    "Hotel Fasano",
+    "Olimpíadas do Rio (2016)",
+    "Meta",
+    "Netflix",
+    "Vale",
+    "XP",
+    "Bayer",
+    "Adidas",
+    "Chanel/Microsoft",
+    "Call of Duty"
+  ]
+}

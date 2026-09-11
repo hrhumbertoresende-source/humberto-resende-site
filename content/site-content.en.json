@@ -1,0 +1,68 @@
+{
+  "siteName": "Humberto Resende Arquiteto",
+  "placeholderNotice": "100% real portfolio of Humberto Resende's work (34 projects). Netflix Tudum still has no photo of the event.",
+  "nav": [
+    {
+      "label": "ARCHITECTURE & INTERIORS",
+      "href": "/arquitetura"
+    },
+    {
+      "label": "SCENOGRAPHY & EVENTS",
+      "href": "/cenografia-eventos"
+    },
+    {
+      "label": "CREATIVE CONSULTING",
+      "href": "/consultoria-criativa"
+    },
+    {
+      "label": "JOURNEY",
+      "href": "/trajetoria"
+    },
+    {
+      "label": "ABOUT",
+      "href": "/sobre"
+    }
+  ],
+  "theme": {
+    "colors": {
+      "background": "#ffffff",
+      "foreground": "#282828",
+      "primary": "#141414",
+      "secondary": "#969696",
+      "accent": "#141414",
+      "muted": "#f7f7f7",
+      "border": "#e6e6e6"
+    },
+    "typography": {
+      "fontFamilyHeading": "var(--font-outfit)",
+      "fontFamilyBody": "var(--font-roboto)",
+      "baseFontSize": "16px"
+    },
+    "spacing": {
+      "sectionPaddingY": "64px",
+      "sectionPaddingX": "0px",
+      "gap": "2px"
+    }
+  },
+  "sections": [
+    {
+      "type": "contact",
+      "id": "contact",
+      "heading": "Contact",
+      "email": "hr.humbertoresende@gmail.com",
+      "phone": "+55 11 96199-7117",
+      "address": "Rua Amaral Gurgel, 59 — São Paulo, SP 01221-001, Brazil",
+      "socialLinks": [],
+      "backgroundColor": "#ffffff",
+      "textColor": "#282828"
+    },
+    {
+      "type": "footer",
+      "id": "footer",
+      "copyright": "Humberto Resende Arquiteto",
+      "links": [],
+      "backgroundColor": "#ffffff",
+      "textColor": "#282828"
+    }
+  ]
+}

@@ -1,0 +1,3265 @@
+{
+  "title": "Estudio Guto Requena",
+  "metaDescription": "Somos um estudio de arquitetura apaixonado por inovação e tecnologia, dedicado a criar um mundo com mais afeto.",
+  "bodyStyles": {
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif",
+    "lineHeight": "16px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "textTransform": "none",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "padding": "0px",
+    "margin": "0px",
+    "display": "block",
+    "flexDirection": "row",
+    "justifyContent": "normal",
+    "alignItems": "normal",
+    "gap": "normal",
+    "gridTemplateColumns": "none",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "position": "static",
+    "top": "auto",
+    "zIndex": "auto",
+    "opacity": "1",
+    "transform": "none",
+    "transition": "all"
+  },
+  "fonts": [
+    "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif | weight:400 | size:16px",
+    "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif | weight:400 | size:0px",
+    "bbkk | weight:400 | size:8px",
+    "Roboto | weight:500 | size:10px",
+    "Roboto | weight:400 | size:10px",
+    "Inter | weight:400 | size:18px",
+    "bbkk | weight:700 | size:20px"
+  ],
+  "favicons": [
+    "https://c-p.rmcdn.net/5f2ad804d2046c00878897e1/upload-e47389ae-ddc6-4da8-a495-c2f8da228ed5_144.png",
+    "https://c-p.rmcdn.net/5f2ad804d2046c00878897e1/upload-e47389ae-ddc6-4da8-a495-c2f8da228ed5_144.png",
+    "https://c-p.rmcdn.net/5f2ad804d2046c00878897e1/upload-e47389ae-ddc6-4da8-a495-c2f8da228ed5_114.png",
+    "https://c-p.rmcdn.net/5f2ad804d2046c00878897e1/upload-e47389ae-ddc6-4da8-a495-c2f8da228ed5_72.png",
+    "https://c-p.rmcdn.net/5f2ad804d2046c00878897e1/upload-e47389ae-ddc6-4da8-a495-c2f8da228ed5_57.png"
+  ],
+  "linkCount": 7,
+  "links": [
+    {
+      "text": "SOBRE",
+      "href": "https://gutorequena.com/sobre/"
+    },
+    {
+      "text": "PT",
+      "href": "https://gutorequena.com/home/"
+    },
+    {
+      "text": "EN",
+      "href": "http://en.gutorequena.com/"
+    },
+    {
+      "text": "PRODUTO",
+      "href": "https://gutorequena.com/produto/"
+    },
+    {
+      "text": "ARQUITETURA",
+      "href": "https://gutorequena.com/arquitetura/"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "href": "https://gutorequena.com/juntxslab/"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "href": "https://gutorequena.com/media/"
+    }
+  ],
+  "colors": [
+    "rgb(255, 255, 255)",
+    "rgb(0, 0, 0)",
+    "rgb(40, 40, 40)",
+    "rgba(0, 0, 0, 0.1)",
+    "rgb(0, 0, 238)",
+    "rgb(247, 247, 247)",
+    "rgb(76, 76, 76)",
+    "rgba(255, 255, 255, 0)",
+    "rgb(150, 150, 150)",
+    "rgb(102, 102, 102)",
+    "rgba(0, 0, 0, 0.6)"
+  ],
+  "bodyText": "Inscrever\n\nSOBRE\n\nPT / EN\n\nPRODUTO\n\nARQUITETURA\n\nJUNTXS LAB\n\nCOMUNICAÇÃO\n\nLUMINÁRIA LIFE\n\nAPARTAMENTO VARANDA\n\nClose",
+  "containerScrollHeight": 8886,
+  "containerClientWidth": 1440,
+  "images": [
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-6000aa63-b98e-4b23-b5a1-127f3d9f6643.jpg?w=1915&e=webp&cX=0&cY=197.3568281938326&cW=1920&cH=885.2863436123348",
+      "alt": "",
+      "naturalWidth": 1915,
+      "naturalHeight": 883,
+      "top": 2540,
+      "left": -6,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-85f50ee3-dfec-474a-9a81-c37ecb7c03f8.jpg?w=1915&e=webp&cX=0&cY=197.3568281938326&cW=1920&cH=885.2863436123348",
+      "alt": "",
+      "naturalWidth": 1915,
+      "naturalHeight": 883,
+      "top": 2540,
+      "left": -5,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-e67e8326-7a3a-4296-8d50-080b5851742f.gif",
+      "alt": "",
+      "naturalWidth": 682,
+      "naturalHeight": 648,
+      "top": 2541,
+      "left": 696,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-10cc3819-b0ac-42ca-ba5a-5e1c5e39a807.jpg?w=923&e=webp",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 878,
+      "top": 2541,
+      "left": 697,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-4b94f6c2-4738-427e-b67a-445ed5bd9726.jpg?w=1915&e=webp&cX=0&cY=259&cW=1920&cH=885.2863436123348",
+      "alt": "",
+      "naturalWidth": 1915,
+      "naturalHeight": 883,
+      "top": 2541,
+      "left": -5,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-bb5ebb23-c43f-42e5-9443-5eb23b64cd93.jpg?w=1907&e=webp&cX=0&cY=407&cW=3000&cH=1384.9557522123894",
+      "alt": "",
+      "naturalWidth": 1907,
+      "naturalHeight": 880,
+      "top": 2877,
+      "left": 348,
+      "displayW": 678,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-5b4d0220-9a36-4c90-87bf-500d9b9e51fc.jpg?w=1907&e=webp&cX=0&cY=473&cW=3000&cH=1384.9557522123894",
+      "alt": "",
+      "naturalWidth": 1907,
+      "naturalHeight": 880,
+      "top": 2877,
+      "left": 348,
+      "displayW": 678,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-4dc838c2-4963-4336-9183-3bcb48ec566e.jpg?w=1907&e=webp&cX=0&cY=225.6061946902655&cW=2196&cH=1013.787610619469",
+      "alt": "",
+      "naturalWidth": 1907,
+      "naturalHeight": 881,
+      "top": 2877,
+      "left": 348,
+      "displayW": 678,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-7903e354-f3ad-4053-8d12-a7c8743f6cd4.png?w=925&e=webp&nll=true&cX=609&cY=0&cW=1275&cH=2512",
+      "alt": "once upon a time",
+      "naturalWidth": 925,
+      "naturalHeight": 1822,
+      "top": 2877,
+      "left": -2,
+      "displayW": 329,
+      "displayH": 648
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-50d590bc-85cb-46b4-b75d-0f5965ba18cc.jpg?w=1915&e=webp&cX=0&cY=296.496328928047&cW=2878&cH=1327.007342143906",
+      "alt": "",
+      "naturalWidth": 1915,
+      "naturalHeight": 883,
+      "top": 3211,
+      "left": 348,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-8e2d757c-70a4-401e-92bd-baee2c508cac.png?w=1915&e=webp&nll=true&cX=272.5971337579617&cY=0&cW=2014.8057324840765&cH=929",
+      "alt": "",
+      "naturalWidth": 1915,
+      "naturalHeight": 883,
+      "top": 3211,
+      "left": 348,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-00fe380c-31f0-422d-868a-acff12ca29d9.jpg?w=1915&e=webp&cX=0&cY=296.0352422907489&cW=2880&cH=1327.9295154185022",
+      "alt": "",
+      "naturalWidth": 1915,
+      "naturalHeight": 883,
+      "top": 3211,
+      "left": 348,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2342740/upload-88b6c15c-55b0-4a01-8449-c04282abaa87.jpg?w=920&e=webp&cX=0&cY=388&cW=1440&cH=1374",
+      "alt": "",
+      "naturalWidth": 920,
+      "naturalHeight": 878,
+      "top": 3546,
+      "left": 696,
+      "displayW": 327,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2342740/upload-da98dd7e-3853-43c8-9bab-f3d0abd9a3fc.jpg?w=920&e=webp&cX=361&cY=39&cW=1422&cH=1374",
+      "alt": "",
+      "naturalWidth": 920,
+      "naturalHeight": 889,
+      "top": 3546,
+      "left": 696,
+      "displayW": 327,
+      "displayH": 316
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-f5b75283-6ffb-4703-b632-871aeaaaa119.jpg?e=webp&cX=0&cY=154.84615384615387&cW=1500&cH=692.3076923076923",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 692,
+      "top": 3547,
+      "left": -5,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-a6eaf9d2-c0a5-4672-8477-2bdaa1a9187a.jpg?e=webp&cX=0&cY=77&cW=750&cH=346.15384615384613",
+      "alt": "",
+      "naturalWidth": 750,
+      "naturalHeight": 346,
+      "top": 3547,
+      "left": -5,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-9ed9bd03-3fba-4d14-a1ff-f84f7dcc9986.jpg?e=webp&cX=0&cY=200&cW=1000&cH=461.5384615384615",
+      "alt": "",
+      "naturalWidth": 1000,
+      "naturalHeight": 462,
+      "top": 3547,
+      "left": -5,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-3db1bcf4-34a9-4593-856f-ec7a544737be.jpg?w=1907&e=webp&cX=0&cY=428&cW=2196&cH=1011",
+      "alt": "",
+      "naturalWidth": 1907,
+      "naturalHeight": 878,
+      "top": 3886,
+      "left": -2,
+      "displayW": 678,
+      "displayH": 312
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-176fde25-98a0-4ce4-9c07-cacab3d6f0c6.gif",
+      "alt": "",
+      "naturalWidth": 676,
+      "naturalHeight": 312,
+      "top": 4221,
+      "left": 0,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-3fbcadab-969d-44cc-85e7-052dcd34c8be.jpg?e=webp&cX=0&cY=0&cW=1500&cH=689",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 689,
+      "top": 4221,
+      "left": -3,
+      "displayW": 679,
+      "displayH": 312
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-152f984f-4624-4b6b-9085-77d18bba96f6.gif",
+      "alt": "",
+      "naturalWidth": 682,
+      "naturalHeight": 648,
+      "top": 4221,
+      "left": 696,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://c-p.rmcdn1.net/5f2ad9b34f598100712a11f8/2080210/upload-f9f5447c-0da4-429d-884c-6e1ba9318ba5.gif",
+      "alt": "",
+      "naturalWidth": 2479,
+      "naturalHeight": 2479,
+      "top": 2421,
+      "left": 1,
+      "displayW": 120,
+      "displayH": 120
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-708c70e4-042f-49b6-a6e5-12917259c2c9.png?w=68&e=webp&nll=true",
+      "alt": "",
+      "naturalWidth": 68,
+      "naturalHeight": 68,
+      "top": 2468,
+      "left": 542,
+      "displayW": 24,
+      "displayH": 24
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-c823633f-34e9-4f6c-a649-ec0f5444597c.jpg?w=1915&e=webp&cX=0&cY=395&cW=1920&cH=885",
+      "alt": "",
+      "naturalWidth": 1915,
+      "naturalHeight": 883,
+      "top": 2540,
+      "left": -6,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-bf4da312-0182-411e-9d4b-fd9ab2ac7dbd.jpg?w=1907&e=webp&cX=0&cY=445&cW=3000&cH=1385",
+      "alt": "",
+      "naturalWidth": 1907,
+      "naturalHeight": 880,
+      "top": 2877,
+      "left": 348,
+      "displayW": 678,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-833980e8-ab7f-4ac5-9a9e-f45c469501b8.png?w=923&e=webp&nll=true&cX=613&cY=0&cW=1271&cH=2512",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 1824,
+      "top": 2877,
+      "left": -1,
+      "displayW": 328,
+      "displayH": 648
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-76c047d4-4086-40a2-be5a-910a09d3bc59.jpg?w=1915&e=webp&cX=0&cY=296.2657856093979&cW=2879&cH=1327.4684287812042",
+      "alt": "",
+      "naturalWidth": 1915,
+      "naturalHeight": 883,
+      "top": 3211,
+      "left": 348,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-5e6ef44c-9a9f-424d-a68a-692ba7f46bc9.jpg?e=webp&cX=0&cY=154.84615384615387&cW=1500&cH=692.3076923076923",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 692,
+      "top": 3548,
+      "left": -5,
+      "displayW": 681,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2342740/upload-94e9674d-22bc-4433-8f4b-af69ed4c322f.jpg?w=920&e=webp&cX=720&cY=372&cW=720&cH=687",
+      "alt": "",
+      "naturalWidth": 920,
+      "naturalHeight": 878,
+      "top": 3548,
+      "left": 696,
+      "displayW": 327,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-ab361bef-eb5d-40fc-b995-9d90ec0507f1.jpg?e=webp&cX=0&cY=1255&cW=1464&cH=673.6991150442477",
+      "alt": "",
+      "naturalWidth": 1464,
+      "naturalHeight": 674,
+      "top": 3886,
+      "left": -2,
+      "displayW": 678,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-7c8dc7da-94a5-4646-9212-8ddb9582220d.jpg?w=923&e=webp",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 878,
+      "top": 3886,
+      "left": 696,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-f60a4595-9ff8-4627-869b-096224c3a141.jpg?w=923&e=webp",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 878,
+      "top": 4221,
+      "left": 696,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-06fb0b61-a0a2-43e2-b972-7690cef1ceb1.jpg?e=webp&cX=17&cY=231&cW=567&cH=1118",
+      "alt": "",
+      "naturalWidth": 567,
+      "naturalHeight": 1118,
+      "top": 4556,
+      "left": -1,
+      "displayW": 329,
+      "displayH": 648
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-138679c3-ecdb-4347-bf24-4aef6aec7012.jpg?e=webp&cX=62&cY=136&cW=613&cH=1212",
+      "alt": "once upon a time",
+      "naturalWidth": 613,
+      "naturalHeight": 1212,
+      "top": 4556,
+      "left": 0,
+      "displayW": 328,
+      "displayH": 648
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2342740/upload-6cebc560-eae0-4830-a203-bf5c712fe212.jpg?w=1898&e=webp&cX=70&cY=355&cW=3375&cH=1564",
+      "alt": "",
+      "naturalWidth": 1898,
+      "naturalHeight": 880,
+      "top": 4559,
+      "left": 349,
+      "displayW": 675,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2342740/upload-ef9c7264-7246-4b46-aa87-e9764fc8ad68.jpg?w=1898&e=webp&cX=0&cY=1036.2962962962963&cW=2000&cH=927.4074074074074",
+      "alt": "",
+      "naturalWidth": 1898,
+      "naturalHeight": 880,
+      "top": 4559,
+      "left": 349,
+      "displayW": 675,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-b9561fa5-17e0-49eb-8d08-bf7e28d7296a.jpg?e=webp&cX=53&cY=149&cW=1328&cH=612",
+      "alt": "",
+      "naturalWidth": 1328,
+      "naturalHeight": 612,
+      "top": 4894,
+      "left": 348,
+      "displayW": 677,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-77133648-87a6-42a4-9972-703db1a1bc1f.jpg?e=webp&cX=0&cY=55&cW=1436&cH=665",
+      "alt": "",
+      "naturalWidth": 1436,
+      "naturalHeight": 665,
+      "top": 5229,
+      "left": 0,
+      "displayW": 676,
+      "displayH": 313
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-d628fb75-030e-4e8c-a085-07fc2f45d9c1.gif",
+      "alt": "",
+      "naturalWidth": 682,
+      "naturalHeight": 648,
+      "top": 5229,
+      "left": 696,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-a3f8982a-4ba1-42d9-80f0-4e7fc923d6bb.jpg?w=923&e=webp&cX=334&cY=0&cW=883&cH=843",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 881,
+      "top": 5564,
+      "left": 0,
+      "displayW": 328,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-4be8d04e-3fcd-4079-92d0-787821da9b2c.jpg?e=webp",
+      "alt": "",
+      "naturalWidth": 526,
+      "naturalHeight": 499,
+      "top": 5564,
+      "left": 348,
+      "displayW": 329,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-90797f1b-a42a-49fd-b9d1-1e482ae61e44.jpg?w=923&e=webp&cX=253&cY=0&cW=1051&cH=1000",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 878,
+      "top": 5564,
+      "left": 696,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-13681f0b-c0a8-458c-8da0-0ad89beae135.jpg?w=923&e=webp&cX=252&cY=0&cW=1046&cH=999",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 882,
+      "top": 5564,
+      "left": 696,
+      "displayW": 328,
+      "displayH": 313
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-eee75677-9cf5-4ff4-a8e0-be8519e5bfac.gif",
+      "alt": "",
+      "naturalWidth": 682,
+      "naturalHeight": 649,
+      "top": 5565,
+      "left": 0,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-dd03a57e-98bf-4fd5-bb91-ede3fd85a38b.jpg?e=webp&cX=0&cY=184&cW=1500&cH=692",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 692,
+      "top": 5903,
+      "left": 1,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-8e0117a1-5525-4fc3-894a-db710c041c3a.jpg?e=webp&cX=0&cY=257&cW=1500&cH=692",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 692,
+      "top": 5903,
+      "left": 1,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-88b88b31-af50-4caa-8364-9c4e7bbba2ad.jpg?w=923&e=webp",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 881,
+      "top": 6237,
+      "left": 696,
+      "displayW": 328,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-7bead6b8-4619-4b26-9c74-068eff90fdfd.jpg?e=webp&cX=58&cY=119&cW=1442&cH=666",
+      "alt": "",
+      "naturalWidth": 1442,
+      "naturalHeight": 666,
+      "top": 6238,
+      "left": 1,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-faab55a8-3a43-4a86-933f-51ae197b5718.jpg?w=900&e=webp",
+      "alt": "once upon a time",
+      "naturalWidth": 900,
+      "naturalHeight": 1823,
+      "top": 4556,
+      "left": 8,
+      "displayW": 320,
+      "displayH": 648
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2342740/upload-3a651b1c-0dcd-4d59-9ac8-ecc6b2131951.jpg?w=1898&e=webp&cX=0&cY=303.94444444444446&cW=3000&cH=1391.111111111111",
+      "alt": "",
+      "naturalWidth": 1898,
+      "naturalHeight": 880,
+      "top": 4560,
+      "left": 349,
+      "displayW": 675,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-902d9adf-809b-42b8-bf73-6b9131e4dd9e.jpg?e=webp&cX=0&cY=142.0769230769231&cW=1382&cH=637.8461538461538",
+      "alt": "",
+      "naturalWidth": 1382,
+      "naturalHeight": 638,
+      "top": 4894,
+      "left": 348,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-440745c9-37bd-4859-9864-829065b4414e.gif",
+      "alt": "",
+      "naturalWidth": 960,
+      "naturalHeight": 409,
+      "top": 5229,
+      "left": -56,
+      "displayW": 732,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-9e214580-1e48-44b5-9d1d-aeac8be68b9e.jpg?w=923&e=webp",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 878,
+      "top": 5229,
+      "left": 697,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-4b2046d6-069c-411e-81cc-5933c9f6786c.jpg?w=923&e=webp&cX=269&cY=0&cW=1051&cH=1000",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 878,
+      "top": 5564,
+      "left": 349,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-5a674654-118d-4259-bcc7-0cc836e4e422.gif",
+      "alt": "",
+      "naturalWidth": 328,
+      "naturalHeight": 312,
+      "top": 5902,
+      "left": 696,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-25e7acc4-6c59-4d1c-8ead-498723ee20fc.jpg?e=webp&cX=0&cY=166&cW=1442&cH=666",
+      "alt": "",
+      "naturalWidth": 1442,
+      "naturalHeight": 666,
+      "top": 5903,
+      "left": 1,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-c0b75858-5a37-43ee-b8b0-5b74ee6e1e23.jpg?w=948&e=webp&cX=236&cY=0&cW=1076&cH=999",
+      "alt": "",
+      "naturalWidth": 948,
+      "naturalHeight": 880,
+      "top": 6237,
+      "left": 696,
+      "displayW": 337,
+      "displayH": 313
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-e1548066-7b55-442d-aed3-0d62c4a93f14.gif",
+      "alt": "",
+      "naturalWidth": 673,
+      "naturalHeight": 312,
+      "top": 6238,
+      "left": 1,
+      "displayW": 676,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-3a46c84e-a23d-4358-bc6d-ee38a1d0c598.jpg?w=925&e=webp&cX=222.75641025641028&cY=0&cW=1054.4871794871794&cH=1000",
+      "alt": "",
+      "naturalWidth": 925,
+      "naturalHeight": 878,
+      "top": 6573,
+      "left": -1,
+      "displayW": 329,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-6f1908d6-3dd6-4cda-994e-5e80e3f49441.jpg?w=925&e=webp&cX=222.75641025641028&cY=0&cW=1054.4871794871794&cH=1000",
+      "alt": "",
+      "naturalWidth": 925,
+      "naturalHeight": 878,
+      "top": 6573,
+      "left": -1,
+      "displayW": 329,
+      "displayH": 312
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-34607452-23d0-4440-89e8-e49a92ab90c9.gif",
+      "alt": "",
+      "naturalWidth": 1414,
+      "naturalHeight": 1000,
+      "top": 6574,
+      "left": 467,
+      "displayW": 441,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-89c31bed-e424-40af-bbc0-ac3e163c6233.jpg?e=webp&cX=30&cY=278&cW=1447&cH=667",
+      "alt": "",
+      "naturalWidth": 1447,
+      "naturalHeight": 667,
+      "top": 6574,
+      "left": 350,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-a1808706-8962-4506-b24b-bca2d6a7bed9.jpg?e=webp&cX=0&cY=233&cW=1500&cH=690",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 690,
+      "top": 6574,
+      "left": 348,
+      "displayW": 678,
+      "displayH": 312
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-69c2c5e2-3338-4eb2-ad4a-4bda691058ed.gif",
+      "alt": "",
+      "naturalWidth": 750,
+      "naturalHeight": 689,
+      "top": 6574,
+      "left": 508,
+      "displayW": 341,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-bda9b5ac-670a-454d-8b35-ae9997ba139e.jpg?w=925&e=webp&cX=222.75641025641028&cY=0&cW=1054.4871794871794&cH=1000",
+      "alt": "",
+      "naturalWidth": 925,
+      "naturalHeight": 878,
+      "top": 6912,
+      "left": 696,
+      "displayW": 329,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-4b08e8cf-7f81-4838-b91f-e2af33bb0c5d.jpg?w=925&e=webp&cX=222.75641025641028&cY=0&cW=1054.4871794871794&cH=1000",
+      "alt": "",
+      "naturalWidth": 925,
+      "naturalHeight": 878,
+      "top": 6912,
+      "left": 696,
+      "displayW": 329,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-b1b32cb7-f3e5-4ec8-b5f0-3a20b0607ffb.jpg?e=webp&cX=0&cY=153.84615384615387&cW=1500&cH=692.3076923076923",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 692,
+      "top": 6912,
+      "left": 0,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-6d4fbcf5-68c4-46da-817d-d27ffaaccd48.jpg?e=webp&cX=0&cY=153.34615384615387&cW=1500&cH=692.3076923076923",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 692,
+      "top": 6912,
+      "left": 0,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-073cc398-aafd-4393-a3e8-82318a57a37a.jpg?e=webp&cX=0&cY=308&cW=1500&cH=692",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 692,
+      "top": 7245,
+      "left": 347,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-4fdd76f4-3b72-4eec-bd0a-4e75a92d5721.jpg?e=webp&cX=0&cY=308&cW=1500&cH=692",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 692,
+      "top": 7245,
+      "left": 347,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-4fd863e7-47f2-45bf-8336-586118c80fca.jpg?e=webp&cX=0&cY=175&cW=1500&cH=692",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 692,
+      "top": 7245,
+      "left": 347,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-5882b7ef-64d0-45d3-88b4-159eb9d7d13b.jpg?w=923&e=webp&cX=341&cY=0&cW=817&cH=777",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 878,
+      "top": 7263,
+      "left": -660,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-4aa2de6c-90b7-4d50-8c2e-7da5f6324600.jpg?w=923&e=webp&cX=226&cY=0&cW=1044&cH=993",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 878,
+      "top": 7263,
+      "left": -660,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-b3e7e8ba-4fe2-4f49-a67f-f497c8ef76d4.jpg?e=webp&cX=0&cY=308&cW=1500&cH=692",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 692,
+      "top": 7581,
+      "left": 349,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-bf451c2e-1ebb-45cc-8a90-5e6cacfa7776.jpg?e=webp&cX=0&cY=209&cW=1500&cH=692",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 692,
+      "top": 7581,
+      "left": 349,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-9f75e3d2-fd66-4db4-b6ff-167d6d86f194.gif",
+      "alt": "",
+      "naturalWidth": 682,
+      "naturalHeight": 648,
+      "top": 7581,
+      "left": 0,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-e65c58e4-0c80-4072-9b09-3b5f3c46138f.jpg?e=webp&cX=0&cY=217&cW=1334&cH=616",
+      "alt": "",
+      "naturalWidth": 1334,
+      "naturalHeight": 616,
+      "top": 7582,
+      "left": 349,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-9ff15bea-c11a-4490-8872-729932ff7215.jpg?w=923&e=webp&cX=392.30769230769226&cY=0&cW=1135.3846153846155&cH=1080",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 878,
+      "top": 7919,
+      "left": 0,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-fc100bb8-d24c-43fa-9f6c-3e5be48f1ad0.jpg?e=webp",
+      "alt": "",
+      "naturalWidth": 1421,
+      "naturalHeight": 653,
+      "top": 7919,
+      "left": 349,
+      "displayW": 677,
+      "displayH": 311
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-bd8ffef5-49cd-4e4d-b781-c416d4e0c4dd.jpg?w=925&e=webp",
+      "alt": "",
+      "naturalWidth": 925,
+      "naturalHeight": 877,
+      "top": 6573,
+      "left": -1,
+      "displayW": 329,
+      "displayH": 312
+    },
+    {
+      "src": "https://c-p.rmcdn1.net/5f2ad9b34f598100712a11f8/2080210/upload-ee9f62d1-0cf1-4dc0-a334-02af0abc76e3.gif",
+      "alt": "",
+      "naturalWidth": 2479,
+      "naturalHeight": 2479,
+      "top": 8610,
+      "left": -3,
+      "displayW": 118,
+      "displayH": 118
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-c34ab9e9-1ded-4324-b567-ea863b05a1ca.jpg?w=925&e=webp&cX=304&cY=129&cW=730&cH=692",
+      "alt": "",
+      "naturalWidth": 925,
+      "naturalHeight": 877,
+      "top": 6912,
+      "left": 695,
+      "displayW": 329,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-4070f547-6cd0-4af9-82f7-01b7c13c63c0.jpg?w=1904&e=webp&cX=0&cY=65&cW=1996&cH=920",
+      "alt": "",
+      "naturalWidth": 1904,
+      "naturalHeight": 878,
+      "top": 6912,
+      "left": 0,
+      "displayW": 677,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-cb3a64b8-f75d-43a3-a69d-019f61ba3ad5.jpg?w=923&e=webp&cX=395.92356687898086&cY=0&cW=1128.1528662420383&cH=1080",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 884,
+      "top": 7244,
+      "left": 0,
+      "displayW": 328,
+      "displayH": 314
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-8eb37ce6-cba2-4b9b-9e1b-ce7da1119bca.jpg?e=webp&cX=64&cY=214&cW=1436&cH=664",
+      "alt": "",
+      "naturalWidth": 1436,
+      "naturalHeight": 664,
+      "top": 7245,
+      "left": 347,
+      "displayW": 677,
+      "displayH": 313
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-4a94b1a5-adfc-4efc-947c-44b07e809773.jpg?e=webp",
+      "alt": "",
+      "naturalWidth": 556,
+      "naturalHeight": 527,
+      "top": 7263,
+      "left": -660,
+      "displayW": 329,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-00dc1ccf-8c0e-4ff4-908f-44b420e0ff8f.jpg?w=923&e=webp&cX=228&cY=0&cW=1051&cH=1000",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 878,
+      "top": 7581,
+      "left": 0,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-864062e4-f098-412b-90f2-960a68446f82.jpg?e=webp&cX=0&cY=226&cW=1440&cH=666",
+      "alt": "",
+      "naturalWidth": 1440,
+      "naturalHeight": 666,
+      "top": 7582,
+      "left": 349,
+      "displayW": 676,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-37ef58d0-0ce3-4b07-a5bd-386415f3e80a.jpg?w=923&e=webp&cX=392.30769230769226&cY=0&cW=1135.3846153846155&cH=1080",
+      "alt": "",
+      "naturalWidth": 923,
+      "naturalHeight": 878,
+      "top": 7919,
+      "left": 0,
+      "displayW": 328,
+      "displayH": 312
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-17f77e76-4de4-4343-a947-7a55f024bdba.jpg?e=webp&cX=0&cY=300&cW=1500&cH=690",
+      "alt": "",
+      "naturalWidth": 1500,
+      "naturalHeight": 690,
+      "top": 7919,
+      "left": 350,
+      "displayW": 676,
+      "displayH": 311
+    }
+  ],
+  "textBlocks": [
+    {
+      "text": "Inscrever",
+      "top": 6270,
+      "left": 725,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 72,
+      "left": 1348,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "PT",
+      "top": 73,
+      "left": 1235,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "/",
+      "top": 73,
+      "left": 1253,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "EN",
+      "top": 73,
+      "left": 1265,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 75,
+      "left": 551,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 75,
+      "left": 374,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 75,
+      "left": 679,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 75,
+      "left": 841,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "LUMINÁRIA LIFE",
+      "top": 577,
+      "left": 980,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "APARTAMENTO VARANDA",
+      "top": 579,
+      "left": 1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CASA CONECTADA",
+      "top": 1050,
+      "left": 488,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "DOLCE GUSTO",
+      "top": 1522,
+      "left": 488,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EDIFÍCIO TERRA",
+      "top": 1523,
+      "left": -4,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ZISSOU FLAGSHIP",
+      "top": 1995,
+      "left": 977,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PAVILHÃO DANÇANTE",
+      "top": 1997,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "HERMÈS POP-UP STORE",
+      "top": 2468,
+      "left": -1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "THE YEAR",
+      "top": 2468,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(147, 147, 147)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 0,
+      "left": 0,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Close",
+      "top": 8,
+      "left": 1376,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "LUMINÁRIA ALMA",
+      "top": 4828,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Inscrever",
+      "top": 6530,
+      "left": 725,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EU ESTOU",
+      "top": 2939,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "TERMINAL 7",
+      "top": 2940,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "#JUNTOSCOMORGULHO",
+      "top": 3416,
+      "left": 491,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ERA UMA VEZ",
+      "top": 3883,
+      "left": -3,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CRIATURA DE LUZ",
+      "top": 3885,
+      "left": 488,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ESTRELA SENSÍVEL",
+      "top": 4357,
+      "left": -1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(139, 147, 147)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "AURA PENDANT",
+      "top": 4357,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EMPATIAS MAPEADAS",
+      "top": 4829,
+      "left": 488,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "POLTRONA DELÍRIOS",
+      "top": 4829,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CADEIRA NÓIZE",
+      "top": 5304,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(175, 175, 175)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MEU CORAÇÃO BATE COMO O SEU",
+      "top": 5304,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 900,
+      "left": 0,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Close",
+      "top": 908,
+      "left": 1376,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "Inscrever",
+      "top": 6790,
+      "left": 725,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 8229,
+      "left": 979,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Buffet Atração",
+      "top": 8256,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Cama Sonhadora",
+      "top": 8277,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "HeartWall",
+      "top": 8298,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Branco Papel de Parede",
+      "top": 8319,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Aura",
+      "top": 8340,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Love Project",
+      "top": 8362,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Era Uma Vez",
+      "top": 8383,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Luminária Alma",
+      "top": 8404,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Luminária Life",
+      "top": 8425,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Cogobó Rizoma",
+      "top": 8446,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Cadeira Nóize",
+      "top": 8467,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Vem Pra Rua!",
+      "top": 8488,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Banco Samba",
+      "top": 8509,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Colheita Dourada",
+      "top": 8530,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Prótese Meu Lar",
+      "top": 8551,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Nossa Senhora Desaparecida",
+      "top": 8573,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Linha Bafafá",
+      "top": 8594,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Poltrona Delírios",
+      "top": 8615,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Linha Áurea",
+      "top": 8636,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Tapete Chá",
+      "top": 8657,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS.LAB",
+      "top": 8229,
+      "left": 1223,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Banco Trama",
+      "top": 8256,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Escultura Encontros",
+      "top": 8277,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Memorial Covid-19",
+      "top": 8298,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "#JuntosComOrgulho",
+      "top": 8319,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Me Conta um Segredo?",
+      "top": 8340,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Empatias Mapeadas",
+      "top": 8362,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Através do Espelho",
+      "top": 8383,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Heartbits",
+      "top": 8404,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Estímulos Emocionais",
+      "top": 8425,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Meu Coração Bate Como o Seu",
+      "top": 8446,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Eu Estou",
+      "top": 8467,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Praça das Emoções",
+      "top": 8488,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CENOGRAFIA",
+      "top": 8236,
+      "left": 734,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Estrela Sensível",
+      "top": 8263,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Tuiteratura",
+      "top": 8284,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Youtube Brandcast",
+      "top": 8305,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Utopia - SPFW",
+      "top": 8326,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CORPORATIVO",
+      "top": 8367,
+      "left": 734,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Live",
+      "top": 8394,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Walmart.com",
+      "top": 8415,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Youse",
+      "top": 8436,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRAVALER",
+      "top": 8457,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Studio Sol",
+      "top": 8478,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Masisa",
+      "top": 8499,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Work & Co",
+      "top": 8520,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 8236,
+      "left": 489,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Casa Conectada",
+      "top": 8263,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Edifício Terra",
+      "top": 8284,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Casa Pica Pau",
+      "top": 8305,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Casulo",
+      "top": 8326,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Apartamento Varanda",
+      "top": 8348,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Terminal 7",
+      "top": 8369,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Pavilhão Brasil Dubai",
+      "top": 8390,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Criatura de Luz",
+      "top": 8411,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "‍",
+      "top": 8432,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMERCIAL",
+      "top": 8449,
+      "left": 489,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Hermès Pop-Up",
+      "top": 8471,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Dolce Gusto Neo",
+      "top": 8492,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Zissou Flagship",
+      "top": 8513,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Disco Club",
+      "top": 8535,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "The Year",
+      "top": 8556,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Bar Emotividade",
+      "top": 8577,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ESTÍMULOS EMOCIONAIS",
+      "top": 5777,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COLHEITA DOURADA",
+      "top": 5777,
+      "left": 977,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(230, 230, 230)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Instagram",
+      "top": 8737,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Facebook",
+      "top": 8755,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Youtube",
+      "top": 8774,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Se inscreva na nossa Newsletter",
+      "top": 8747,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PAVILHÃO DO BRASIL",
+      "top": 6245,
+      "left": 494,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "UTOPIA - SPFW",
+      "top": 6248,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "LOVE PROJECT",
+      "top": 6723,
+      "left": 1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(114, 114, 114)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "STUDIO SOL",
+      "top": 6726,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "HEARTBITS",
+      "top": 7192,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "YOUSE",
+      "top": 7194,
+      "left": 488,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "VEM PRA RUA!",
+      "top": 7217,
+      "left": -927,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "BANCO SAMBA",
+      "top": 7665,
+      "left": 1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "WALMART.COM",
+      "top": 7665,
+      "left": 491,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "DISCO CLUB",
+      "top": 8138,
+      "left": 489,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MEMORIAL COVID-19",
+      "top": 8139,
+      "left": -1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 8755,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 1800,
+      "left": 0,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Close",
+      "top": 1808,
+      "left": 1376,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "Inscrever",
+      "top": 7050,
+      "left": 725,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 2700,
+      "left": 0,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Close",
+      "top": 2708,
+      "left": 1376,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "Inscrever",
+      "top": 7310,
+      "left": 725,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 3600,
+      "left": 0,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Close",
+      "top": 3608,
+      "left": 1376,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "Inscrever",
+      "top": 7570,
+      "left": 725,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 4500,
+      "left": 0,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Close",
+      "top": 4508,
+      "left": 1376,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "Inscrever",
+      "top": 7830,
+      "left": 725,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 5400,
+      "left": 0,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Close",
+      "top": 5408,
+      "left": 1376,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "Inscrever",
+      "top": 8090,
+      "left": 725,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 6300,
+      "left": 0,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Close",
+      "top": 6308,
+      "left": 1376,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "Inscrever",
+      "top": 8350,
+      "left": 725,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 7200,
+      "left": 0,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Close",
+      "top": 7208,
+      "left": 1376,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "LUMINÁRIA ALMA",
+      "top": 4942,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Inscrever",
+      "top": 8691,
+      "left": 725,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 186,
+      "left": 1348,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "PT",
+      "top": 187,
+      "left": 1235,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "/",
+      "top": 187,
+      "left": 1253,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "EN",
+      "top": 187,
+      "left": 1265,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 189,
+      "left": 551,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 189,
+      "left": 374,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 189,
+      "left": 679,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 189,
+      "left": 841,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "LUMINÁRIA LIFE",
+      "top": 691,
+      "left": 980,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "APARTAMENTO VARANDA",
+      "top": 693,
+      "left": 1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CASA CONECTADA",
+      "top": 1164,
+      "left": 488,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "DOLCE GUSTO",
+      "top": 1636,
+      "left": 488,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EDIFÍCIO TERRA",
+      "top": 1637,
+      "left": -4,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ZISSOU FLAGSHIP",
+      "top": 2109,
+      "left": 977,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PAVILHÃO DANÇANTE",
+      "top": 2111,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "HERMÈS POP-UP STORE",
+      "top": 2582,
+      "left": -1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "THE YEAR",
+      "top": 2582,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(147, 147, 147)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EU ESTOU",
+      "top": 3053,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "TERMINAL 7",
+      "top": 3054,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "#JUNTOSCOMORGULHO",
+      "top": 3530,
+      "left": 491,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ERA UMA VEZ",
+      "top": 3997,
+      "left": -3,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CRIATURA DE LUZ",
+      "top": 3999,
+      "left": 488,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ESTRELA SENSÍVEL",
+      "top": 4471,
+      "left": -1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(139, 147, 147)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "AURA PENDANT",
+      "top": 4471,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EMPATIAS MAPEADAS",
+      "top": 4943,
+      "left": 488,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "POLTRONA DELÍRIOS",
+      "top": 4943,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CADEIRA NÓIZE",
+      "top": 5418,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(175, 175, 175)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MEU CORAÇÃO BATE COMO O SEU",
+      "top": 5418,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 8343,
+      "left": 979,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Buffet Atração",
+      "top": 8370,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Cama Sonhadora",
+      "top": 8391,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "HeartWall",
+      "top": 8412,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Branco Papel de Parede",
+      "top": 8433,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Aura",
+      "top": 8454,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Love Project",
+      "top": 8476,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Era Uma Vez",
+      "top": 8497,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Luminária Alma",
+      "top": 8518,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Luminária Life",
+      "top": 8539,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Cogobó Rizoma",
+      "top": 8560,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Cadeira Nóize",
+      "top": 8581,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Vem Pra Rua!",
+      "top": 8602,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Banco Samba",
+      "top": 8623,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Colheita Dourada",
+      "top": 8644,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Prótese Meu Lar",
+      "top": 8665,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Nossa Senhora Desaparecida",
+      "top": 8687,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Linha Bafafá",
+      "top": 8708,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Poltrona Delírios",
+      "top": 8729,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Linha Áurea",
+      "top": 8750,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Tapete Chá",
+      "top": 8771,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS.LAB",
+      "top": 8343,
+      "left": 1223,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Banco Trama",
+      "top": 8370,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Escultura Encontros",
+      "top": 8391,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Memorial Covid-19",
+      "top": 8412,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "#JuntosComOrgulho",
+      "top": 8433,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Me Conta um Segredo?",
+      "top": 8454,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Empatias Mapeadas",
+      "top": 8476,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Através do Espelho",
+      "top": 8497,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Heartbits",
+      "top": 8518,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Estímulos Emocionais",
+      "top": 8539,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Meu Coração Bate Como o Seu",
+      "top": 8560,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Eu Estou",
+      "top": 8581,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Praça das Emoções",
+      "top": 8602,
+      "left": 1223,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CENOGRAFIA",
+      "top": 8350,
+      "left": 734,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Estrela Sensível",
+      "top": 8377,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Tuiteratura",
+      "top": 8398,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Youtube Brandcast",
+      "top": 8419,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Utopia - SPFW",
+      "top": 8440,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CORPORATIVO",
+      "top": 8481,
+      "left": 734,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Live",
+      "top": 8508,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Walmart.com",
+      "top": 8529,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Youse",
+      "top": 8550,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRAVALER",
+      "top": 8571,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Studio Sol",
+      "top": 8592,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Masisa",
+      "top": 8613,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Work & Co",
+      "top": 8634,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 8350,
+      "left": 489,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Casa Conectada",
+      "top": 8377,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Edifício Terra",
+      "top": 8398,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Casa Pica Pau",
+      "top": 8419,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Casulo",
+      "top": 8440,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Apartamento Varanda",
+      "top": 8462,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Terminal 7",
+      "top": 8483,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Pavilhão Brasil Dubai",
+      "top": 8504,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Criatura de Luz",
+      "top": 8525,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "‍",
+      "top": 8546,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMERCIAL",
+      "top": 8563,
+      "left": 489,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(106, 106, 106)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Hermès Pop-Up",
+      "top": 8585,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Dolce Gusto Neo",
+      "top": 8606,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Zissou Flagship",
+      "top": 8627,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Disco Club",
+      "top": 8649,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "The Year",
+      "top": 8670,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Bar Emotividade",
+      "top": 8691,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ESTÍMULOS EMOCIONAIS",
+      "top": 5891,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COLHEITA DOURADA",
+      "top": 5891,
+      "left": 977,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(230, 230, 230)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Instagram",
+      "top": 8851,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Facebook",
+      "top": 8869,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Youtube",
+      "top": 8888,
+      "left": 489,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Se inscreva na nossa Newsletter",
+      "top": 8861,
+      "left": 979,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PAVILHÃO DO BRASIL",
+      "top": 6359,
+      "left": 494,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "UTOPIA - SPFW",
+      "top": 6362,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "LOVE PROJECT",
+      "top": 6837,
+      "left": 1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(114, 114, 114)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "STUDIO SOL",
+      "top": 6840,
+      "left": 979,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "HEARTBITS",
+      "top": 7306,
+      "left": 0,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "YOUSE",
+      "top": 7308,
+      "left": 488,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "VEM PRA RUA!",
+      "top": 7331,
+      "left": -927,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "BANCO SAMBA",
+      "top": 7779,
+      "left": 1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "WALMART.COM",
+      "top": 7779,
+      "left": 491,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "DISCO CLUB",
+      "top": 8252,
+      "left": 489,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(201, 201, 201)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MEMORIAL COVID-19",
+      "top": 8253,
+      "left": -1,
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 8869,
+      "left": 734,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 8100,
+      "left": 0,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Close",
+      "top": 8108,
+      "left": 1376,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    }
+  ]
+}

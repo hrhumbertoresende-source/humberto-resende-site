@@ -1,0 +1,4042 @@
+{
+  "title": "Estudio Guto Requena",
+  "metaDescription": "Somos um estudio de arquitetura apaixonado por inovação e tecnologia, dedicado a criar um mundo com mais afeto.",
+  "bodyStyles": {
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif",
+    "lineHeight": "16px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "textTransform": "none",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "padding": "0px",
+    "margin": "0px",
+    "display": "block",
+    "flexDirection": "row",
+    "justifyContent": "normal",
+    "alignItems": "normal",
+    "gap": "normal",
+    "gridTemplateColumns": "none",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "position": "static",
+    "top": "auto",
+    "zIndex": "auto",
+    "opacity": "1",
+    "transform": "none",
+    "transition": "all"
+  },
+  "fonts": [
+    "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif | weight:400 | size:16px",
+    "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif | weight:400 | size:0px",
+    "bbkk | weight:400 | size:15px",
+    "bbkk | weight:400 | size:14px",
+    "Inter | weight:400 | size:18px",
+    "bbkk | weight:400 | size:10px",
+    "bbkk | weight:700 | size:10px",
+    "Roboto | weight:400 | size:8px",
+    "Roboto | weight:400 | size:10px",
+    "Roboto | weight:500 | size:10px"
+  ],
+  "favicons": [
+    "https://c-p.rmcdn.net/5f2ad804d2046c00878897e1/upload-e47389ae-ddc6-4da8-a495-c2f8da228ed5_144.png",
+    "https://c-p.rmcdn.net/5f2ad804d2046c00878897e1/upload-e47389ae-ddc6-4da8-a495-c2f8da228ed5_144.png",
+    "https://c-p.rmcdn.net/5f2ad804d2046c00878897e1/upload-e47389ae-ddc6-4da8-a495-c2f8da228ed5_114.png",
+    "https://c-p.rmcdn.net/5f2ad804d2046c00878897e1/upload-e47389ae-ddc6-4da8-a495-c2f8da228ed5_72.png",
+    "https://c-p.rmcdn.net/5f2ad804d2046c00878897e1/upload-e47389ae-ddc6-4da8-a495-c2f8da228ed5_57.png"
+  ],
+  "linkCount": 19,
+  "links": [
+    {
+      "text": "HOME",
+      "href": "https://gutorequena.com/1/"
+    },
+    {
+      "text": "ARQUITETURA",
+      "href": "https://gutorequena.com/arquitetura/"
+    },
+    {
+      "text": "PRODUTO",
+      "href": "https://gutorequena.com/produto/"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "href": "https://gutorequena.com/juntxslab/"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "href": "https://gutorequena.com/press/"
+    },
+    {
+      "text": "SOBRE",
+      "href": "https://gutorequena.com/sobre/"
+    },
+    {
+      "text": "PT",
+      "href": "http://gutorequena.com/home/"
+    },
+    {
+      "text": "EN",
+      "href": "https://en.gutorequena.com/"
+    },
+    {
+      "text": "PT",
+      "href": "https://gutorequena.com/home/"
+    },
+    {
+      "text": "EN",
+      "href": "https://gutorequena.com/loveproject/"
+    },
+    {
+      "text": "PRODUTO",
+      "href": "https://gutorequena.com/produto/"
+    },
+    {
+      "text": "ARQUITETURA",
+      "href": "https://gutorequena.com/arquitetura/"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "href": "https://gutorequena.com/juntxslab/"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "href": "https://gutorequena.com/media/"
+    },
+    {
+      "text": "SOBRE",
+      "href": "https://gutorequena.com/sobre/"
+    },
+    {
+      "text": "Instagram",
+      "href": "https://www.instagram.com/estudiogutorequena/"
+    },
+    {
+      "text": "Facebook",
+      "href": "https://www.facebook.com/estudiogutorequena"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/user/gutorequena"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "href": "mailto:contato@gutorequena.com.br"
+    }
+  ],
+  "colors": [
+    "rgb(255, 255, 255)",
+    "rgb(0, 0, 0)",
+    "rgb(40, 40, 40)",
+    "rgba(255, 255, 255, 0)",
+    "rgb(102, 102, 102)",
+    "rgb(56, 56, 56)",
+    "rgb(51, 51, 51)",
+    "rgb(150, 150, 150)",
+    "rgba(0, 0, 0, 0.1)",
+    "rgb(196, 196, 196)",
+    "rgb(0, 0, 238)",
+    "rgb(247, 247, 247)",
+    "rgb(76, 76, 76)",
+    "rgb(127, 127, 127)",
+    "rgb(216, 216, 216)",
+    "rgb(234, 234, 234)",
+    "rgb(119, 119, 119)"
+  ],
+  "bodyText": "HOME\n\n \n\nARQUITETURA\n\nPRODUTO\n\nJUNTXS LAB\n\nCOMUNICAÇÃO\n\n \n\nSOBRE\n\n\n\n\nPT       /       EN\n\n\n\n\ncontato@gutorequena.com.br \n\n@estudiogutorequena \n\n+55 (11) 3081 2974\n\n\n\n\n\n\n\nontato@gutorequena.com.br e telefone\n\nSUBSCRIBE\nInscrever\n\nPT / EN\n\nPRODUTO\n\nARQUITETURA\n\nJUNTXS LAB\n\nCOMUNICAÇÃO\n\nSOBRE\n\nTERMINAL 7\n\nAPARTAMENTO VARANDA\n\nDOLCE GUSTO NEO\n\n#JUNTOSCOMORGULHO\n\nCASA CONECTADA\n\nHERMÈS POP-UP STORE\n\nERA UMA VEZ\n\nSUBSCRIBE TO OUR NEWSLETTER\n\n \n\nInstagram\n\nFacebook\n\nYoutube\n\n \n\nEstudio Guto Requena\nRua Major Diogo,91\nBela Vista\nSão Paulo, Brasil\nCEP: 01324-001  \n+55 (11) 3081 2974\n\ncontato@gutorequena.com.br\n\n\n\n\nMENU\n\nClose",
+  "containerScrollHeight": 16775,
+  "containerClientWidth": 390,
+  "images": [
+    {
+      "src": "https://c-p.rmcdn1.net/5f2ad9b34f598100712a11f8/2080210/upload-4b7d3d38-24b0-4de9-b914-f135a302c3ec.gif",
+      "alt": "",
+      "naturalWidth": 2479,
+      "naturalHeight": 2479,
+      "top": 105,
+      "left": -12,
+      "displayW": 146,
+      "displayH": 146
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-708c70e4-042f-49b6-a6e5-12917259c2c9.png?w=59",
+      "alt": "",
+      "naturalWidth": 59,
+      "naturalHeight": 59,
+      "top": 162,
+      "left": 780,
+      "displayW": 29,
+      "displayH": 29
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-3fbcadab-969d-44cc-85e7-052dcd34c8be.jpg?w=780&cX=414&cY=0&cW=663&cH=795",
+      "alt": "",
+      "naturalWidth": 780,
+      "naturalHeight": 935,
+      "top": 256,
+      "left": 0,
+      "displayW": 390,
+      "displayH": 468
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-d76bed1b-1544-4544-a467-725f248c2514.jpg?w=780&cX=0&cY=216&cW=1356&cH=1627.2",
+      "alt": "",
+      "naturalWidth": 780,
+      "naturalHeight": 936,
+      "top": 724,
+      "left": 0,
+      "displayW": 390,
+      "displayH": 468
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-b90990fe-7b2b-4a35-9733-22e981b107d0.jpg?w=780&cX=711&cY=496&cW=1185&cH=1422",
+      "alt": "",
+      "naturalWidth": 780,
+      "naturalHeight": 936,
+      "top": 1192,
+      "left": 0,
+      "displayW": 390,
+      "displayH": 468
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2342740/upload-6cebc560-eae0-4830-a203-bf5c712fe212.jpg?w=1887&cX=70&cY=355&cW=3375&cH=1564",
+      "alt": "",
+      "naturalWidth": 1887,
+      "naturalHeight": 874,
+      "top": 1660,
+      "left": -277,
+      "displayW": 943,
+      "displayH": 438
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-bf4da312-0182-411e-9d4b-fd9ab2ac7dbd.jpg?w=1887&cX=0&cY=333&cW=3000&cH=1391.4728682170542",
+      "alt": "",
+      "naturalWidth": 1887,
+      "naturalHeight": 875,
+      "top": 2098,
+      "left": -264,
+      "displayW": 943,
+      "displayH": 438
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-c967b708-770b-4cdb-a011-af5a3b3a2268.jpg",
+      "alt": "",
+      "naturalWidth": 750,
+      "naturalHeight": 501,
+      "top": 2535,
+      "left": -191,
+      "displayW": 775,
+      "displayH": 518
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-3db1bcf4-34a9-4593-856f-ec7a544737be.jpg?w=1075&cX=1018&cY=366&cW=1178&cH=1098",
+      "alt": "",
+      "naturalWidth": 1075,
+      "naturalHeight": 1002,
+      "top": 3052,
+      "left": -51,
+      "displayW": 537,
+      "displayH": 501
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-833980e8-ab7f-4ac5-9a9e-f45c469501b8.png?w=1007&cX=0&cY=215.92251815980626&cW=1884&cH=2080.1549636803875",
+      "alt": "",
+      "naturalWidth": 1007,
+      "naturalHeight": 1112,
+      "top": 3553,
+      "left": -106,
+      "displayW": 503,
+      "displayH": 556
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-fd0ac49f-20f2-4c47-859b-4924715b4640.jpg?w=780&cX=0&cY=1899&cW=3414&cH=4245",
+      "alt": "once upon a time",
+      "naturalWidth": 780,
+      "naturalHeight": 970,
+      "top": 4104,
+      "left": 0,
+      "displayW": 390,
+      "displayH": 485
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-dd03a57e-98bf-4fd5-bb91-ede3fd85a38b.jpg?w=1119&cX=172&cY=0&cW=1007&cH=1000",
+      "alt": "",
+      "naturalWidth": 1119,
+      "naturalHeight": 1111,
+      "top": 4587,
+      "left": -17,
+      "displayW": 559,
+      "displayH": 556
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2342740/upload-08c5ba16-e33e-4470-96d1-ffc8096f3674.png?w=244&cX=0&cY=148&cW=5907&cH=5611",
+      "alt": "",
+      "naturalWidth": 244,
+      "naturalHeight": 232,
+      "top": 4941,
+      "left": 0,
+      "displayW": 122,
+      "displayH": 132
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2342740/upload-88b6c15c-55b0-4a01-8449-c04282abaa87.jpg?w=1024&cX=0&cY=386.66666666666663&cW=1440&cH=1386.6666666666667",
+      "alt": "",
+      "naturalWidth": 1024,
+      "naturalHeight": 986,
+      "top": 5140,
+      "left": -48,
+      "displayW": 512,
+      "displayH": 492
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/upload-37ef58d0-0ce3-4b07-a5bd-386415f3e80a.jpg?w=1224&cX=371.9739696312365&cY=0&cW=1176.052060737527&cH=1080",
+      "alt": "",
+      "naturalWidth": 1224,
+      "naturalHeight": 1124,
+      "top": 5632,
+      "left": -17,
+      "displayW": 612,
+      "displayH": 562
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-aea140d6-5f63-4d2c-a4c3-e2fe7e3c431d.jpg",
+      "alt": "",
+      "naturalWidth": 544,
+      "naturalHeight": 500,
+      "top": 6193,
+      "left": -116,
+      "displayW": 609,
+      "displayH": 559
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5ed823665f3008006d12d7eb/2056725/upload-b79e628a-42be-4108-b86a-c559e6819764.jpg?w=1048",
+      "alt": "",
+      "naturalWidth": 1048,
+      "naturalHeight": 961,
+      "top": 6744,
+      "left": -67,
+      "displayW": 524,
+      "displayH": 481
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5ed823665f3008006d12d7eb/2056725/upload-c488c6b4-b9e9-48e4-b8ef-aaf21337167b.jpg",
+      "alt": "",
+      "naturalWidth": 684,
+      "naturalHeight": 625,
+      "top": 7220,
+      "left": -24,
+      "displayW": 576,
+      "displayH": 528
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-00dc1ccf-8c0e-4ff4-908f-44b420e0ff8f.jpg?w=1151&cX=205&cY=0&cW=1091&cH=1000",
+      "alt": "",
+      "naturalWidth": 1151,
+      "naturalHeight": 1055,
+      "top": 7747,
+      "left": -87,
+      "displayW": 575,
+      "displayH": 528
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-440745c9-37bd-4859-9864-829065b4414e.gif",
+      "alt": "",
+      "naturalWidth": 960,
+      "naturalHeight": 409,
+      "top": 8271,
+      "left": -191,
+      "displayW": 1304,
+      "displayH": 556
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-48b0b059-7769-48ac-ae2a-a50eb16bc9ab.jpg?w=1063&cX=208.40749414519905&cY=0&cW=965.1850117096019&cH=922",
+      "alt": "",
+      "naturalWidth": 1063,
+      "naturalHeight": 1016,
+      "top": 9376,
+      "left": -54,
+      "displayW": 531,
+      "displayH": 507
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-a3f8982a-4ba1-42d9-80f0-4e7fc923d6bb.jpg?w=1172&cX=334&cY=0&cW=883&cH=843",
+      "alt": "",
+      "naturalWidth": 1172,
+      "naturalHeight": 1119,
+      "top": 8826,
+      "left": -80,
+      "displayW": 586,
+      "displayH": 559
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-5a674654-118d-4259-bcc7-0cc836e4e422.gif",
+      "alt": "",
+      "naturalWidth": 328,
+      "naturalHeight": 312,
+      "top": 9883,
+      "left": -113,
+      "displayW": 527,
+      "displayH": 501
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/image-baa99c12-f11a-4be8-9fc6-769bc7a4ca50.jpg?w=1043&cX=205.0691244239631&cY=0&cW=1089.8617511520738&cH=1000",
+      "alt": "",
+      "naturalWidth": 1043,
+      "naturalHeight": 957,
+      "top": 10381,
+      "left": -108,
+      "displayW": 522,
+      "displayH": 479
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-c0b75858-5a37-43ee-b8b0-5b74ee6e1e23.jpg?w=1153&cX=258&cY=0&cW=1091&cH=1001",
+      "alt": "",
+      "naturalWidth": 1153,
+      "naturalHeight": 1058,
+      "top": 10858,
+      "left": -163,
+      "displayW": 576,
+      "displayH": 529
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-13681f0b-c0a8-458c-8da0-0ad89beae135.jpg?w=1148&cX=324&cY=107&cW=856&cH=785",
+      "alt": "",
+      "naturalWidth": 1148,
+      "naturalHeight": 1053,
+      "top": 11395,
+      "left": -93,
+      "displayW": 574,
+      "displayH": 527
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-7bead6b8-4619-4b26-9c74-068eff90fdfd.jpg?w=1155&cX=276&cY=119&cW=730&cH=673",
+      "alt": "",
+      "naturalWidth": 1155,
+      "naturalHeight": 1065,
+      "top": 13395,
+      "left": -80,
+      "displayW": 578,
+      "displayH": 533
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-b1b32cb7-f3e5-4ec8-b5f0-3a20b0607ffb.jpg?w=992&cX=324&cY=169&cW=676&cH=664",
+      "alt": "",
+      "naturalWidth": 992,
+      "naturalHeight": 974,
+      "top": 11921,
+      "left": -79,
+      "displayW": 496,
+      "displayH": 488
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-152f984f-4624-4b6b-9085-77d18bba96f6.gif",
+      "alt": "",
+      "naturalWidth": 682,
+      "naturalHeight": 648,
+      "top": 12405,
+      "left": -90,
+      "displayW": 520,
+      "displayH": 495
+    },
+    {
+      "src": "https://c-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-d628fb75-030e-4e8c-a085-07fc2f45d9c1.gif",
+      "alt": "",
+      "naturalWidth": 682,
+      "naturalHeight": 648,
+      "top": 12896,
+      "left": -112,
+      "displayW": 524,
+      "displayH": 498
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-e65c58e4-0c80-4072-9b09-3b5f3c46138f.jpg?w=1043&cX=467&cY=217&cW=732&cH=616",
+      "alt": "",
+      "naturalWidth": 1043,
+      "naturalHeight": 878,
+      "top": 13919,
+      "left": -78,
+      "displayW": 522,
+      "displayH": 439
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad9b34f598100712a11f8/2080210/upload-8eb37ce6-cba2-4b9b-9e1b-ce7da1119bca.jpg?w=1099&cX=351&cY=216&cW=691&cH=664",
+      "alt": "",
+      "naturalWidth": 1099,
+      "naturalHeight": 1056,
+      "top": 14356,
+      "left": -80,
+      "displayW": 550,
+      "displayH": 528
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5ed823665f3008006d12d7eb/2056725/upload-a7ad17e3-25c2-424e-8856-f6bc0cd0daec.jpg?w=1090",
+      "alt": "",
+      "naturalWidth": 1090,
+      "naturalHeight": 1000,
+      "top": 14883,
+      "left": -80,
+      "displayW": 545,
+      "displayH": 500
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5f2ad804d2046c00878897e1/2342740/Image-0e9a4f0d-0c68-4645-9576-d9591fc8bc57.jpg?w=1029",
+      "alt": "",
+      "naturalWidth": 1029,
+      "naturalHeight": 1017,
+      "top": 15380,
+      "left": -76,
+      "displayW": 514,
+      "displayH": 508
+    },
+    {
+      "src": "https://i-p.rmcdn.net/5ed823665f3008006d12d7eb/2056725/upload-1dde0bf3-26ea-4aa9-99c6-da81e7a8e06c.jpg",
+      "alt": "",
+      "naturalWidth": 574,
+      "naturalHeight": 527,
+      "top": 15886,
+      "left": -65,
+      "displayW": 509,
+      "displayH": 468
+    },
+    {
+      "src": "https://c-p.rmcdn1.net/5f2ad9b34f598100712a11f8/2080210/upload-ee9f62d1-0cf1-4dc0-a334-02af0abc76e3.gif",
+      "alt": "",
+      "naturalWidth": 2479,
+      "naturalHeight": 2479,
+      "top": 15884,
+      "left": 385,
+      "displayW": 144,
+      "displayH": 144
+    }
+  ],
+  "textBlocks": [
+    {
+      "text": "HOME",
+      "top": 216,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 284,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 318,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 353,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 387,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 455,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 513,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 513,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 561,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 579,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 598,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 671,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PAVILHÃO DANÇANTE",
+      "top": 2685,
+      "left": 23,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EDIFÍCIO TERRA",
+      "top": 3720,
+      "left": 37,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MEU CORAÇÃO BATE COMO O SEU",
+      "top": 4752,
+      "left": 28,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ZISSOU FLAGSHIP",
+      "top": 5288,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MEMORIAL COVID-19",
+      "top": 5811,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(196, 196, 196)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EMPATIAS MAPEADAS",
+      "top": 6355,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(211, 211, 211)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ZISSOU FLAGSHIP",
+      "top": 6754,
+      "left": 369,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(211, 211, 211)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "STUDIO SOL",
+      "top": 6761,
+      "left": -434,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "#JUNTOSCOMORGULHO",
+      "top": 6766,
+      "left": 381,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(211, 211, 211)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "UTOPIA - SPFW",
+      "top": 7355,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "BANCO SAMBA",
+      "top": 7876,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ESTRELA SENSÍVEL",
+      "top": 8412,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SUBSCRIBE",
+      "top": 5053,
+      "left": 97,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Inscrever",
+      "top": 15893,
+      "left": 782,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "PT",
+      "top": 63,
+      "left": 642,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "/",
+      "top": 63,
+      "left": 657,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "EN",
+      "top": 63,
+      "left": 668,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 65,
+      "left": 597,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 65,
+      "left": 443,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 65,
+      "left": 708,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 65,
+      "left": 848,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "SOBRE",
+      "top": 67,
+      "left": 1043,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "TERMINAL 7",
+      "top": 367,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "APARTAMENTO VARANDA",
+      "top": 835,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(216, 216, 216)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "DOLCE GUSTO NEO",
+      "top": 1303,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(234, 234, 234)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "#JUNTOSCOMORGULHO",
+      "top": 1766,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CASA CONECTADA",
+      "top": 2186,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "HERMÈS POP-UP STORE",
+      "top": 3200,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ERA UMA VEZ",
+      "top": 4229,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(119, 119, 119)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SUBSCRIBE TO OUR NEWSLETTER",
+      "top": 4992,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Instagram",
+      "top": 5126,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Facebook",
+      "top": 5142,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Youtube",
+      "top": 5158,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 5326,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "LUMINÁRIA LIFE",
+      "top": 6872,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 57,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 8,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 1060,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 1128,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 1162,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 1197,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 1231,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 1299,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 1357,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 1357,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 1405,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 1423,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 1442,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 1515,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "LUMINÁRIA ALMA",
+      "top": 8966,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CRIATURA DE LUZ",
+      "top": 9522,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(193, 193, 193)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CADEIRA NÓIZE",
+      "top": 10016,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "STUDIO SOL",
+      "top": 10501,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COLHEITA DOURADA",
+      "top": 10987,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "POLTRONA DELÍRIOS",
+      "top": 11521,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 901,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 852,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 1904,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 1972,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 2006,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 2041,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 2075,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 2143,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 2201,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 2201,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 2249,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 2267,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 2286,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 2359,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "LOVE PROJECT",
+      "top": 12054,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EU ESTOU",
+      "top": 12543,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "AURA PENDANT",
+      "top": 13028,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ESTÍMULOS EMOCIONAIS",
+      "top": 13560,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "WALMART.COM",
+      "top": 14021,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(33, 33, 33)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "YOUSE",
+      "top": 14502,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "THE YEAR",
+      "top": 15014,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "DISCO CLUB",
+      "top": 15530,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PAVILHÃO DO BRASIL",
+      "top": 15611,
+      "left": 803,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "VEM PRA RUA!",
+      "top": 16006,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 1745,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 1696,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 2748,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 2816,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 2850,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 2885,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 2919,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 2987,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 3045,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 3045,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 3093,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 3111,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 3130,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 3203,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 15817,
+      "left": 1237,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Instagram",
+      "top": 15864,
+      "left": 1025,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Facebook",
+      "top": 15880,
+      "left": 1025,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Youtube",
+      "top": 15896,
+      "left": 1025,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Se inscreva na nossa Newsle",
+      "top": 15900,
+      "left": 707,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 2589,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 2540,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 3592,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 3660,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 3694,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 3729,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 3763,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 3831,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 3889,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 3889,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 3937,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 3955,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 3974,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 4047,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 3433,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 3384,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 4436,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 4504,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 4538,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 4573,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 4607,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 4675,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 4733,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 4733,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 4781,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 4799,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 4818,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 4891,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 4277,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 4228,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 5280,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 5348,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 5382,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 5417,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 5451,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 5519,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 5577,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 5577,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 5625,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 5643,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 5662,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 5735,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 5121,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 5072,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 6124,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 6192,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 6226,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 6261,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 6295,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 6363,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 6421,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 6421,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 6469,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 6487,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 6506,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 6579,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 5965,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 5916,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 6968,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 7036,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 7070,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 7105,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 7139,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 7207,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 7265,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 7265,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 7313,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 7331,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 7350,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 7423,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 6809,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 6760,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 7812,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 7880,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 7914,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 7949,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 7983,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 8051,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 8109,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 8109,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 8157,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 8175,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 8194,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 8267,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 7653,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 7604,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 8656,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 8724,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 8758,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 8793,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 8827,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 8895,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 8953,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 8953,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 9001,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 9019,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 9038,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 9111,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 8497,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 8448,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 9500,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 9568,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 9602,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 9637,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 9671,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 9739,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 9797,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 9797,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 9845,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 9863,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 9882,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 9955,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 9341,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 9292,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 10344,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 10412,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 10446,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 10481,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 10515,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 10583,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 10641,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 10641,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 10689,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 10707,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 10726,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 10799,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 10185,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 10136,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 11188,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 11256,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 11290,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 11325,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 11359,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 11427,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 11485,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 11485,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 11533,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 11551,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 11570,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 11643,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 11029,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 10980,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 12032,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 12100,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 12134,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 12169,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 12203,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 12271,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 12329,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 12329,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 12377,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 12395,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 12414,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 12487,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 11873,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 11824,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 12876,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 12944,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 12978,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 13013,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 13047,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 13115,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 13173,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 13173,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 13221,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 13239,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 13258,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 13331,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 12717,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 12668,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 13720,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 13788,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 13822,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 13857,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 13891,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 13959,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 14017,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 14017,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 14065,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 14083,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 14102,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 14175,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 13561,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 13512,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 14564,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 14632,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 14666,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 14701,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 14735,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 14803,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 14861,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 14861,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 14909,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 14927,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 14946,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 15019,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 14405,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 14356,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 15408,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 15476,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 15510,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 15545,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 15579,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 15647,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 15705,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 15705,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 15753,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 15771,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 15790,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 15863,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 15249,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 15200,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    },
+    {
+      "text": "HOME",
+      "top": 16252,
+      "left": 603,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(56, 56, 56)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 16320,
+      "left": 546,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 16354,
+      "left": 577,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 16389,
+      "left": 566,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 16423,
+      "left": 531,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SOBRE",
+      "top": 16491,
+      "left": 604,
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PT",
+      "top": 16549,
+      "left": 542,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EN",
+      "top": 16549,
+      "left": 635,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 16597,
+      "left": 487,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "@estudiogutorequena",
+      "top": 16615,
+      "left": 530,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "+55 (11) 3081 2974",
+      "top": 16634,
+      "left": 562,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ontato@gutorequena.com.br e telefone",
+      "top": 16707,
+      "left": 390,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PAVILHÃO DANÇANTE",
+      "top": 2790,
+      "left": 23,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EDIFÍCIO TERRA",
+      "top": 3825,
+      "left": 37,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MEU CORAÇÃO BATE COMO O SEU",
+      "top": 4857,
+      "left": 28,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ZISSOU FLAGSHIP",
+      "top": 5393,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MEMORIAL COVID-19",
+      "top": 5916,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(196, 196, 196)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EMPATIAS MAPEADAS",
+      "top": 6460,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(211, 211, 211)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ZISSOU FLAGSHIP",
+      "top": 6859,
+      "left": 369,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(211, 211, 211)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "STUDIO SOL",
+      "top": 6866,
+      "left": -434,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "#JUNTOSCOMORGULHO",
+      "top": 6871,
+      "left": 381,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(211, 211, 211)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "UTOPIA - SPFW",
+      "top": 7460,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "BANCO SAMBA",
+      "top": 7981,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ESTRELA SENSÍVEL",
+      "top": 8517,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "LUMINÁRIA ALMA",
+      "top": 9071,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CRIATURA DE LUZ",
+      "top": 9627,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(193, 193, 193)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CADEIRA NÓIZE",
+      "top": 10121,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "STUDIO SOL",
+      "top": 10606,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "COLHEITA DOURADA",
+      "top": 11092,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "LOVE PROJECT",
+      "top": 12159,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "EU ESTOU",
+      "top": 12648,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "AURA PENDANT",
+      "top": 13133,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ESTÍMULOS EMOCIONAIS",
+      "top": 13665,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "WALMART.COM",
+      "top": 14126,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(33, 33, 33)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "YOUSE",
+      "top": 14607,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "THE YEAR",
+      "top": 15119,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "DISCO CLUB",
+      "top": 15635,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "PAVILHÃO DO BRASIL",
+      "top": 15716,
+      "left": 803,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "VEM PRA RUA!",
+      "top": 16111,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SUBSCRIBE",
+      "top": 5158,
+      "left": 97,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "Inscrever",
+      "top": 15998,
+      "left": 782,
+      "fontSize": "8px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "PT",
+      "top": 168,
+      "left": 642,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "/",
+      "top": 168,
+      "left": 657,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "EN",
+      "top": 168,
+      "left": 668,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "PRODUTO",
+      "top": 170,
+      "left": 597,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "ARQUITETURA",
+      "top": 170,
+      "left": 443,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "JUNTXS LAB",
+      "top": 170,
+      "left": 708,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "COMUNICAÇÃO",
+      "top": 170,
+      "left": 848,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "SOBRE",
+      "top": 172,
+      "left": 1043,
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "Roboto"
+    },
+    {
+      "text": "TERMINAL 7",
+      "top": 472,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "APARTAMENTO VARANDA",
+      "top": 940,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(216, 216, 216)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "DOLCE GUSTO NEO",
+      "top": 1408,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(234, 234, 234)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "#JUNTOSCOMORGULHO",
+      "top": 1871,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "CASA CONECTADA",
+      "top": 2291,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "HERMÈS POP-UP STORE",
+      "top": 3305,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "ERA UMA VEZ",
+      "top": 4334,
+      "left": 26,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(119, 119, 119)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "SUBSCRIBE TO OUR NEWSLETTER",
+      "top": 5097,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Instagram",
+      "top": 5231,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Facebook",
+      "top": 5247,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Youtube",
+      "top": 5263,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 5431,
+      "left": 27,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "LUMINÁRIA LIFE",
+      "top": 6977,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "POLTRONA DELÍRIOS",
+      "top": 11626,
+      "left": 24,
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "color": "rgb(127, 127, 127)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "contato@gutorequena.com.br",
+      "top": 15922,
+      "left": 1237,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(150, 150, 150)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Instagram",
+      "top": 15969,
+      "left": 1025,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Facebook",
+      "top": 15985,
+      "left": 1025,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Youtube",
+      "top": 16001,
+      "left": 1025,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Se inscreva na nossa Newsle",
+      "top": 16005,
+      "left": 707,
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "MENU",
+      "top": 16093,
+      "left": 235,
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "color": "rgb(102, 102, 102)",
+      "fontFamily": "bbkk"
+    },
+    {
+      "text": "Close",
+      "top": 16044,
+      "left": 326,
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(40, 40, 40)",
+      "fontFamily": "-apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Arial, sans-serif"
+    }
+  ]
+}

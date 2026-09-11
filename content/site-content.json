@@ -1,0 +1,68 @@
+{
+  "siteName": "Humberto Resende Arquiteto",
+  "placeholderNotice": "Portfolio 100% real do Humberto Resende (34 trabalhos). Netflix Tudum ainda sem foto do evento.",
+  "nav": [
+    {
+      "label": "ARQUITETURA & INTERIORES",
+      "href": "/arquitetura"
+    },
+    {
+      "label": "CENOGRAFIA & EVENTOS",
+      "href": "/cenografia-eventos"
+    },
+    {
+      "label": "CONSULTORIA CRIATIVA",
+      "href": "/consultoria-criativa"
+    },
+    {
+      "label": "TRAJETÓRIA",
+      "href": "/trajetoria"
+    },
+    {
+      "label": "SOBRE",
+      "href": "/sobre"
+    }
+  ],
+  "theme": {
+    "colors": {
+      "background": "#ffffff",
+      "foreground": "#282828",
+      "primary": "#141414",
+      "secondary": "#969696",
+      "accent": "#141414",
+      "muted": "#f7f7f7",
+      "border": "#e6e6e6"
+    },
+    "typography": {
+      "fontFamilyHeading": "var(--font-inter)",
+      "fontFamilyBody": "var(--font-roboto)",
+      "baseFontSize": "16px"
+    },
+    "spacing": {
+      "sectionPaddingY": "64px",
+      "sectionPaddingX": "0px",
+      "gap": "2px"
+    }
+  },
+  "sections": [
+    {
+      "type": "contact",
+      "id": "contact",
+      "heading": "Contato",
+      "email": "hr.humbertoresende@gmail.com",
+      "phone": "011 96199-7117",
+      "address": "Rua Amaral Gurgel, 59 — São Paulo, SP 01221-001",
+      "socialLinks": [],
+      "backgroundColor": "#ffffff",
+      "textColor": "#282828"
+    },
+    {
+      "type": "footer",
+      "id": "footer",
+      "copyright": "Humberto Resende Arquiteto",
+      "links": [],
+      "backgroundColor": "#ffffff",
+      "textColor": "#282828"
+    }
+  ]
+}
